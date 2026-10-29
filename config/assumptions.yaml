@@ -1,0 +1,78 @@
+# ALL forward-looking inputs are ASSUMPTIONS (not data). Each has a rationale; change here, rerun `python run_all.py`.
+market:
+  gsec_10y: {value: 0.0740, why: "India 10Y G-sec 7.40% on 29-Oct-2026 (source GSEC)."}
+  sovereign_default_spread: {value: 0.0066, why: "India sovereign CDS 0.66% (DAMO_ERP). Removed from G-sec so country risk is not double-counted with the CDS-based ERP (Damodaran local-currency method)."}
+  erp: {value: 0.0523, why: "Damodaran Jan-2026 India CDS-based total ERP 5.23% (DAMO_ERP; cached data/raw/damodaran_ctryprem.html). Rating-based pair (default spread 1.87%, ERP 7.08%) tested in sensitivity."}
+  beta_method: {value: "blume_3y_weekly_vs_nifty50", why: "Raw OLS beta of 3y weekly returns vs ^NSEI, Blume-adjusted 0.67*raw+0.33 (same method for all four)."}
+  terminal_growth: {value: 0.065, why: "INR nominal long-run growth below the INR risk-free rate; same for all four."}
+  tax_rate: {value: 0.2517, why: "Indian corporate rate 22% + 10% surcharge + 4% cess (s.115BAA)."}
+  cash_yield: {value: 0.070, why: "Pre-tax yield on surplus treasury (liquid/debt MFs, FDs) ~ rf; used only for EPS/P&L, never inside FCFF."}
+  fixed_cost_growth: {value: 0.10, why: "Wage + tech inflation for Indian fin-infra (employee cost growth FY24-26 ~8-12%)."}
+  explicit_years: {value: 5, why: "FY27E-FY31E driver-based; FY32-FY41 linear fade of growth to g; terminal value at FY41."}
+  fade_years: {value: 10, why: "High-ROCE franchises; growth fades over a decade (Damodaran-style 3-stage)."}
+scenario_weights: {bear: 0.25, base: 0.50, bull: 0.25}
+scenarios:
+  base: {deriv_shock: 0.0, market_shock: 0.0, growth_delta: 0.0, g_delta: 0.0, why: "Latest reported run-rate (incl. post-RBI/CAS BSE premium ADTV) held flat for rest of FY27, then segment growth."}
+  bear: {deriv_shock: -0.30, market_shock: -0.20, growth_delta: -0.03, g_delta: -0.01, why: "Brief-mandated stress: 30% fall in derivatives turnover AND 20% equity drawdown, persistent level shift, -3pp growth FY28-31, g 5.5%."}
+  bull: {deriv_shock: 0.15, market_shock: 0.10, growth_delta: 0.02, g_delta: 0.005, why: "Partial recovery of F&O volumes after RBI/CAS adjustment, +10% market, +2pp growth."}
+  deriv_only: {deriv_shock: -0.30, market_shock: 0.0, growth_delta: 0.0, g_delta: 0.0, why: "Isolated 30% derivatives turnover fall."}
+  equity_only: {deriv_shock: 0.0, market_shock: -0.20, growth_delta: 0.0, g_delta: 0.0, why: "Isolated 20% equity market drawdown."}
+# Segment drivers. e_d = elasticity of segment revenue to derivatives turnover; e_m = elasticity to equity market level.
+# growth = base nominal revenue growth FY28-FY31.  All elasticities/growth are ASSUMPTIONS (labelled).
+companies:
+  BSE:
+    variable_cost_basis: "regulatory contribution + clearing & settlement + core SGF (Q1FY27 actual ratio)"
+    capex_pct: {value: 0.086, why: "FY25+FY26 capex / revenue (FY26 includes building; 2y average)"}
+    nwc_pct_incr_rev: {value: 0.0, why: "Exchange collects fees ~T+few days; WC immaterial (excl. clearing funds)"}
+    payout: {value: 0.40, why: "Assumed; FY26 standalone payout ~16-26% (Screener), raised as cash builds"}
+    segments:
+      eq_derivatives: {e_d: 1.0, e_m: 0.0, growth: 0.12, why: "Revenue = premium ADTV x days x realisation; options ~95% of txn charges (MINT_CAS)"}
+      cash_other_txn: {e_d: 0.0, e_m: 1.0, growth: 0.12, why: "Cash ADTO scales with market cap"}
+      treasury_cs: {e_d: 0.5, e_m: 0.0, growth: 0.05, why: "Float on clearing margins ~ derivatives activity"}
+      listing: {e_d: 0.0, e_m: 0.3, growth: 0.10, why: "Annual listing fee partly market-cap linked; IPO fees cyclical"}
+      other_op: {e_d: 0.0, e_m: 0.3, growth: 0.10, why: "Data, StAR MF, services"}
+    derivatives_h2_adpt_vs_q2: {value: 1.0, why: "H2 FY27 premium ADTV held at Q2 QTD level (INR225bn/day)"}
+  CDSL:
+    variable_cost_basis: "SEBI/IPF fees (Q1FY27)"
+    capex_pct: {value: 0.098, why: "FY25+FY26 capex / revenue"}
+    nwc_pct_incr_rev: {value: 0.05, why: "Receivables ~20 days"}
+    payout: {value: 0.55, why: "FY24-26 payout 50-58% (Screener)"}
+    segments:
+      annual_issuer: {e_d: 0.0, e_m: 0.2, growth: 0.12, why: "Per-folio/ISIN annual charges; folio growth (BO a/cs +17% YoY, CDSL_PPT_Q1)"}
+      transaction: {e_d: 0.1, e_m: 1.0, growth: 0.12, why: "Debit transactions scale with cash market activity; margin pledges small F&O link"}
+      ipo_ca: {e_d: 0.0, e_m: 1.5, growth: 0.10, why: "Primary market highly pro-cyclical"}
+      online_data_kyc: {e_d: 0.0, e_m: 0.5, growth: 0.12, why: "KYC/e-voting/data; new-investor additions"}
+      other_op: {e_d: 0.0, e_m: 0.3, growth: 0.10, why: "Misc."}
+  CAMS:
+    variable_cost_basis: "'Operating expenses' sub-line (Q1FY27 slide 21)"
+    capex_pct: {value: 0.089, why: "FY25+FY26 capex / revenue (RTA re-architecture underway)"}
+    nwc_pct_incr_rev: {value: 0.08, why: "Receivables+accrued income less payables/other liab ~ FY26 ratio (see three-statement)"}
+    payout: {value: 0.70, why: "FY24-26 payout 65-76% (Screener)"}
+    segments:
+      mf_asset_based: {e_d: 0.0, e_m: 0.70, growth: 0.13, why: "AAUM x yield. Equity 54.3% of AAUM with higher yield -> ~0.7 market elasticity; AUM growth ~15% less ~2%/yr yield compression (TER->BER, tiered pricing)"}
+      mf_non_asset: {e_d: 0.0, e_m: 0.30, growth: 0.05, why: "Transaction/SIP-registration fees; -3.5% YoY in Q1"}
+      non_mf: {e_d: 0.0, e_m: 0.30, growth: 0.20, why: "CAMSPay, KRA, AIF, insurance repository; +28.4% YoY in Q1"}
+  KFINTECH:
+    variable_cost_basis: "not disclosed; ASSUMED 10% of revenue"
+    capex_pct: {value: 0.083, why: "FY25+FY26 capex / revenue (Screener; excludes Ascent acquisition)"}
+    nwc_pct_incr_rev: {value: 0.15, why: "Debtor days ~70+ (Sep-26 receivables 284.7 cr on ~1,600 cr run-rate)"}
+    payout: {value: 0.60, why: "FY26 payout 60% (Screener)"}
+    segments:
+      domestic_mf: {e_d: 0.0, e_m: 0.70, growth: 0.13, why: "Same AAUM logic as CAMS (33.1% share, gaining)"}
+      international: {e_d: 0.0, e_m: 0.30, growth: 0.18, why: "Ascent + SEA fund admin (US$ AUM)"}
+      issuer: {e_d: 0.0, e_m: 0.20, growth: 0.10, why: "Corporate registry; seasonal"}
+      alternates_pms: {e_d: 0.0, e_m: 0.50, growth: 0.18, why: "AIF/PMS admin"}
+      nps_other: {e_d: 0.0, e_m: 0.20, growth: 0.10, why: "NPS CRA, allied, OPE"}
+# --- Deployment discipline for the INR 500 cr ticket (ASSUMPTIONS, labelled) ---
+deployment:
+  review_months: {value: 6, why: "Hard IC review ~6 months after the price date (end-Apr 2027): FY27 Q4 results will be out, so the model is re-run on a full year of actuals before any decision to change the bands."}
+  horizons_trading_days: {value: {"3m": 63, "6m": 126, "12m": 252}, why: "~21 NSE trading days per month."}
+  participation_rate: {value: 0.20, why: "Max share of combined NSE+BSE daily traded value we take when building, to limit market impact (common institutional rule of thumb; not sourced, labelled)."}
+  adv_window_days: {value: 60, why: "Average daily traded value over the last 60 sessions (YF_DAILY, NSE + BSE where cached)."}
+  vol_window_days: {value: 252, why: "Annualised volatility from the last 252 daily log returns (YF_DAILY)."}
+  gbm_log_drift: {value: 0.0, why: "Driftless log-price for the barrier-touch probability: no view on direction is assumed (labelled)."}
+  history_years: {value: 5, why: "Empirical touch frequency uses all start dates in the cached 5y daily history (YF_DAILY)."}
+# --- Cost-of-equity cross-check (not used in base case; see ke_crosscheck.py and README 'Ke decision') ---
+ke_crosscheck:
+  damodaran_india_candidates: {value: ["Brokerage & Investment Banking", "Information Services", "Business & Consumer Services", "Computer Services", "Investments & Asset Management"], why: "Damodaran India industry averages (Jan-2026, DAMO_BETA_IN) have no exchange / depository / RTA category; every plausible bucket is shown rather than picking one."}
+  beta_column: {value: "Unlevered beta corrected for cash", why: "Operating-asset beta; all four are net-cash and lease debt is immaterial, so it is applied directly to the operating DCF."}

@@ -1,0 +1,4 @@
+,tranche,amount_cr,entry_max,rule
+0,T1 starter,100.0,637.0,<= bull-case intrinsic value today; only after Q2 FY27 results confirm AAUM-linked revenue run-rate
+1,T2,150.0,564.0,<= midpoint of bull and base intrinsic value
+2,T3,250.0,490.0,<= base-case intrinsic value (expected return >= Ke)

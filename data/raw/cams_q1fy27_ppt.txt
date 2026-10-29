@@ -1,0 +1,1235 @@
+                                                                            03rd August 2026
+
+BSE Limited,                                    National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                      Exchange Plaza, 5th floor, Plot No. C/1,
+Dalal Street                                    G Block, Bandra Kurla Complex, Bandra
+Mumbai 400 001                                  (East), Mumbai 400 051
+
+Scrip Code: 543232                              Trading Symbol : CAMS
+
+Dear Sir / Madam,
+
+Sub: Revision in Presentation of Unaudited Standalone and Consolidated Financial
+Results for the quarter ended June 30, 2026
+
+We enclose the revised presentation of Unaudited Standalone and Consolidated Financial
+Results for the quarter ended June 30, 2026. The presentation is being resubmitted to rectify
+a typographical error in the version submitted earlier.
+
+We request you to kindly take the same on record.
+
+
+Thanking you,
+
+Yours faithfully,
+For Computer Age Management Services Limited
+              Digitally signed by Manikandan
+              DN: cn=Manikandan gn=Manikandan
+Manikandan    c=IN India l=IN India
+              Reason: I am the author of this
+              document
+              Location:
+              Date: 2026-08-03 17:59+05:30
+
+
+
+G Manikandan
+Company Secretary and Compliance Officer
+Investor  Presentation
+       Investor Presentation
+Q1 FY’27 Q1 FY’26
+(for the quarter and period ended June 30, 2026)
+                                                   1
+  Safe Harbour Statement
+
+  This presentation and the accompanying slides (the “Presentation”), which have been prepared by Computer Age Management Services Limited
+  (CAMS) (the “Company”), have been prepared solely for information purposes and do not constitute any offer, recommendation or invitation to
+  purchase or subscribe for any securities, and shall not form the basis or be relied on in connection with any contract or binding commitment what so
+  ever. No offering of securities of the Company will be made except by means of a statutory offering document containing detailed information about
+  the Company.
+
+  This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes
+  no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and
+  reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you may
+  consider material. Any liability in respect of the contents of, or any omission from, this Presentation is expressly excluded.
+
+  Certain matters discussed in this Presentation may contain statements regarding the Company’s market opportunity and business prospects that are
+  individually and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject to
+  known and unknown risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include, but are not limited to, the
+  performance of the Indian economy and of the economies of various international markets, the performance of the industry in India and world-wide,
+  competition, the company’s ability to successfully implement its strategy, the Company’s future levels of growth and expansion, technological
+  implementation, changes and advancements, changes in revenue, income or cash flows, the Company’s market preferences and its exposure to market
+  risks, as well as other risks. The Company’s actual results, levels of activity, performance or achievements could differ materially and adversely from
+  results expressed in or implied by this Presentation. The Company assumes no obligation to update any forward-looking information contained in this
+  Presentation. Any forward-looking statements and projections made by third parties included in this Presentation are not adopted by the Company and
+  the Company is not responsible for such third party statements and projections.
+
+
+
+
+Investor Presentation                                                                                                                                        2
+  Presentation Flow
+
+           Business Overview                             Financials                                 About CAMS
+
+     Business Highlights Q1 FY’27             Revenue Highlights – Q1 FY’27                   Business at a Glance
+     Page No: 5-7                             Page No: 14                                     Page No: 25
+
+     MF - Operational Highlights – Q1 FY’27                                                   Mutual Fund Services Business
+                                              Financial Highlights – Q1 FY’27
+     Page No: 8                                                                               Page No: 26-28
+                                              Page No: 15
+     MF Industry vs. CAMS – Q1 FY’27          Revenue Profile – Q1 FY’27                      Non-MF Businesses
+     Page No: 9                               Page No: 16                                     Page No: 29-35
+     Operational Metrics Q1 FY’27             Consolidated Financial Highlights – Quarterly   Corporate Structure
+     Page No: 10                              Page No: 17                                     Page No: 36
+                                              Standalone & Consolidated P&L – FY’27 & FY’26   Board of Directors
+     Business updates
+     Page No: 11-12                           Page No: 18-21                                  Page No: 37
+                                              Update on ESG Initiatives                       Management Team
+                                              Page No: 23                                     Page No: 38-39
+                                                                                              History / Milestones
+                                                                                              Page No: 40
+                                                                                              Awards & Accolades
+                                                                                              Page No: 41-42
+                                                                                              Shareholding
+                                                                                              Page No: 43
+
+
+
+
+Investor Presentation                                                                                                         3
+1. Business Overview
+2. Financials
+3. ESG & CSR Activities
+4. Company Overview
+
+
+
+                          4
+     Business Highlights Q1 FY’27
+
+               Financial Highlights
+                        EBITDA grew 18.3% Y-o-Y to ₹183 Cr. despite challenging market conditions, reflecting the resilience
+                        of CAMS’s business model and continued operating momentum
+                        EBITDA margin expanded by 270 basis points to 46.4% from 43.7% Y-o-Y, driven by operating
+                        leverage and disciplined cost management
+
+                        Operating revenue grew 11.5% Y-o-Y to ₹395 Cr., reflecting sustained business momentum
+
+
+                        Mutual fund asset-based revenue grew by 11.2 % Y-o-Y
+
+                        Profit After Tax (PAT) grew 17.3% Y-o-Y to reach ₹128 Cr. in Q1 FY’27, leading to an improvement in
+                        PAT margin to 31.1%, reflecting healthy profitability
+                        Revenue diversification on track as non-MF businesses grew 28.4% Y-o-Y, while one non-MF business
+                        crossed the 5% revenue contribution mark for the first time
+
+
+
+Investor Presentation                                                                                                          5
+     Business Highlights Q1 FY’27
+
+                         Mutual Funds
+                        CAMS AuM grew 14.8% Y-o-Y to a record ₹56 Lakh Cr. In
+                        Q1 FY'27, while sustaining its dominant market position with a
+                        67.2% share                                                      The Specialized Investment Fund (SIF) segment continues
+                                                                                         to gain traction. CAMS has launched 11 SIFs to date,
+                        Equity AuM grew 17.6% Y-o-Y, outperforming industry growth       collectively crossing ₹10,000 crore in AuM. With over
+                        at 16.4%, to reach a record ₹31.4 lakh crore. Equity net sales   8,000 distributors and 45,000 investors participating in
+                        at ₹86,026 Cr. grew by 43% Y-o-Y, ahead of industry growth       the segment, growth momentum is expected to
+                        at 39%                                                           strengthen further in the coming months
+                        Live SIP accounts grew 18.8% Y-o-Y to 6.72 Cr., significantly
+                        ahead of industry growth of 14.4%. Market share improved to      GIFT City Retail Funds crossed 10,000 investors, with
+                        63.9% from 61.5% a year ago                                      monthly gross sales of ₹200 Cr. and AuM of ₹750 Cr.
+
+                        SIP collections grew 20.7% Y-o-Y to ₹59,681 Cr. in Q1FY’27,      AlphaGrep Mutual Fund went live with its maiden NFO
+                        outperforming industry collections growth of 16.5%               on July 6, 2026. ASK, Carnelian, Oaklane and Neo are
+                                                                                         expected to go live over the next three months, taking
+                                                                                         CAMS’ client base to 31 AMCs
+                        CAMS’s unique investor base expanded 16.8% Y-o-Y to over
+                        4.85 Cr., outpacing industry growth of 12.1%
+
+
+
+
+Investor Presentation                                                                                                                               6
+     Business Highlights Q1 FY’27
+
+                        Beyond Mutual Funds
+                                                                                        CAMS KRA recorded a marginal 2.6% Y-o-Y decline in
+                                                                                        revenue in Q1 FY’27, despite a market wide
+                         Non-MF Revenue grew 28.4% Y-o-Y in Q1 FY'27, highlighting      recommended rate revision ~29% and subdued market
+                         the success of CAMS’ diversification strategy beyond core MF   activity. It also received in-principle approval as an
+                         operations. Share of non MF revenue stood at 14.9%             IFSCA-authorised KRA in GIFT City on July 1, 2026,
+                                                                                        unlocking a significant growth opportunity
+                         CAMSPay’s revenue grew 69.1% Y-o-Y; 17 new deals signed in
+                         Q1 FY’27, reflecting strong client acquisition momentum.        CAMSRep’s Bima Central grows its unique user base by
+                                                                                         45%, adds 8.3 Lakh unique user in Q1 FY’27
+
+                         CAMS Alternatives achieved a strong quarter, with revenue       ConsenPro, a consent lifecycle management platform
+                         up 25.6% Y-o-Y in Q1 FY’27. With AuM crossing 3.2 Lakh Cr.,     jointly developed by CAMS and Think360, is being
+                         CAMS reinforced its dominance in the Alternatives market,       shaped to address specific industry-wide consent
+                         winning 50 new mandates, including 23 marquee new logos         management challenges, with early wins from BFSI and
+                                                                                         enterprise clients as organizations navigate evolving
+                                                                                         DPDPA compliance requirements
+
+
+
+
+                          Key platforms on track: Fundsnet planned for Sep’26 go-live   AI-led transformation gaining traction: 10%+ physical financial
+                          and complete deprecation of old platform by Q4 FY’26;         transactions via AI at the maker layer; 4/8 extraction types live
+                          CAMSLens 2.0, e-KYC, revamped KRA and Data Warehouse
+                          progressing as planned
+
+
+Investor Presentation                                                                                                                                       7
+ Mutual Funds – Operational Highlights – Q1 FY’27
+                                Transaction volume                        Equity AUM (Rs Lakh Cr.)                                       Equity Net Sales^ (₹ Cr.)
+
+
+
+                                                                                                                                                                       68.2%
+                                                                                                          66.8%                  65.4%                                 Share
+                                                                    66.1%
+                                                                                                          Share                  Share
+                                                                    Share
+                        24.4                             29.2                                                                                        43%
+                         Cr.            20%               Cr.                         18%                 31.4                                      Growth               86 K
+                                                                       26.7          Growth                                        60K
+                                        Growth                                                                                                       Y-o-Y
+                                         Y-o-Y                                        Y-o-Y
+                                                                                                                                 Q1 FY’26                              Q1 FY’27
+                    Q1 FY’26                           Q1 FY’27
+                                                                                                                          ❑   Equity Net Sales increased by 43% Y-o-Y ,Industry growth
+                                                                   Q1 FY’26                            Q1 FY’27               was at -39%
+
+
+
+
+                           NFO Mobilization (in ₹ Cr.)                       SIP Collections (₹ Cr.)                                     Unique Investor Growth
+
+
+
+
+                                                                                                         63.6%
+                                53%                               61.3%                                  Share                                                              4.85
+                               Share*                 52%
+                                                     Share*
+                                                                  Share
+                                                                                    21%                                          4.15               17%                      Cr.
+                                                                                  Growth                                         Cr.              Growth
+                                                                                                        59.7K
+                               3,442                                49K            Y-o-Y                                                       Y-o-Y vs. 12%
+                                                      918                                                                                       for industry
+                                                                  Q1 FY’26                             Q1 FY’27
+                           Q1 FY’26                  Q1 FY’27                                                                   Jun’25                                     Jun’26
+
+
+                                                                                                                  ^Equity includes Growth & Equity oriented Schemes , Index Equity
+                                                                                                                  And Hybrid excluding Arbitrage
+Investor Presentation                                                                                                                                                                    8
+  Mutual Fund Industry vs. CAMS AAuM – Q1 FY’27
+
+                          CAMS – Market Share                                                                      AAuM Serviced by CAMS                                 Equity AAuM – CAMS
+                        (based on Quarterly AAuM)
+                                                                                                                        ₹55.9 Tn.                                         ₹31.4 Tn.
+                        67.2%*                                                                                                   14.8% Y-o-Y                                        17.6% Y-o-Y
+
+
+
+
+                                                                                               Q1 FY’27
+                                                                                                                                 1.4 % Q-o-Q                                        2.9% Q-o-Q
+                                            Net flows into equity
+                                              assets reached
+                                                                                                                            Industry AAuM                               Equity AAuM # – Industry
+                                               ₹86,026 Cr. in
+                                                  Q1 FY’27
+                                                                                                                         ₹83.1 Tn.                                          ₹47.0 Tn.
+                                             Inflows through SIPs                                                             15.3% Y-o-Y                                            16.4% Y-o-Y
+                                                  increased by
+                                            21% Y-o-Y / 1% Q-o-Q                                                                2.0 % Q-o-Q                                          3.3% Q-o-Q
+
+
+
+*Market share & AuM does not include fund of fund Domestic| AuM including FOF domestic for Q1 FY’27 - ₹57.33 Tn, Q4 FY’26 - ₹56.59 Tn., Q1 FY’26 - ₹ 49.34Tn. Yield calculated on this AuM
+# Equity includes Growth & Equity Oriented schemes, Index-Equity & Hybrid excluding Arbitrage
+
+Investor Presentation                                                                                                                                                                              9
+  Operational Metrics – Q1FY’27
+
+                                                                                                                     Systematic Transactions
+                        Transaction Volume                                   SIP Book                                      Processed
+                          292.3 Mn.                                       67.2 Mn.                                      240.3 Mn.
+                                                                         (as on June 30, 2026)
+                        Y-o-Y: 19.7%
+                                                                     Y-o-Y: 18.8%                                          Y-o-Y:18.2%
+                        Q-o-Q: 0.2%                                                                                        Q-o-Q: 3%
+                                                                     Q-o-Q: 0.3%
+
+
+
+
+                                           Live Investor                                   Unique Investors
+                                               Folios                                          Serviced
+
+                                          116.2 Mn.                                          48.5 Mn.
+                                             (as on June 30, 2026)                           (as on June 30, 2026)
+                                       Y-o-Y: 19.4%                                         Y-o-Y: 16.8%
+                                       Q-o-Q: 5.8%                                          Q-o-Q: 2%
+
+
+
+
+Investor Presentation                                                                                                                          10
+  Beyond MF
+
+
+      o Delivered 69.1% Y-o-Y revenue         o   CAMS Alternatives posted a strong       o Amid softer market activity, CAMS
+        growth, reflecting continued              revenue growth of 25.6% Y-o-Y             KRA’s revenue edged down 2.6% Y-o-Y
+        momentum across the payments              growth                                    in Q1 FY'27 despite a market wide
+        business                              o   Continued momentum in business            recommended rate revision of ~29%
+      o Secured 17 new mandates during            acquisition with 50 new mandates,       o Received in-principle approval as an
+        the quarter                               including 23 first-time clients;          IFSCA-authorised KYC Registration
+      o Processed 13.4 Mn. bank account           Overall AuM crosses ₹3.20 Lakh Cr.        Agency (KRA) in GIFT City on
+        verifications during the quarter, a   o   CAMS‘ digital stack for alternative       July 1, 2026 which unlocks a powerful
+        32% Y-o-Y growth further                  segment continues to gain strong          market opportunity
+        strengthening CAMSPay’s position as       traction across the industry. Total     o Onboarded 58 new intermediaries
+        a trusted digital onboarding and          signups on WealthServ platform            during the quarter reflecting deep
+        verification partner for the BFSI         crossed 288 with addition of 20           market confidence in CAMS KRA’s
+        ecosystem                                 mandates during the quarter               technology-led platform and service
+      o CAMSPay continues to broaden its      o   Strengthened GIFT City footprint with     quality
+        revenue streams, with Cards driving       40+ funds outsourcing services
+        strong momentum and Education
+        emerging as a new growth vertical
+        through university and ERP partner
+        onboarding
+
+Investor Presentation                                                                                                               11
+     Beyond MF
+
+
+                  o Bima Central added 8.3 lakh unique users in Q1 FY 27,          o CAMS finserv recorded a 45.3% Y-o-Y growth in revenue
+                    growing its base by 45% taking the cumulative unique user        on the back of strong product offerings
+                    base beyond 25 lakhs                                           o CAMS finserv strengthened its commitment to the
+                  o Bharti AXA Life Insurance became third insurer to bring          ecosystem through a ₹1 Cr. equity participation in
+                    their entire policyholder base to Bima Central                   Sahamati (SRO-AA) and continues to contribute to
+                                                                                     industry governance and key initiatives through its
+                  o 2 large distributors signed up for Bima Central & Bima           Board Observer role
+                    Central Administrator, enabling single stop policy servicing
+                    for distributors                                               o Secured 23 new deals which included stockbrokers,
+                                                                                     portfolio managers and lenders
+
+
+
+
+                    o ConsenPro gaining strong momentum with BFSI &                o CAMS CRA registered 75% Y-o-Y growth on subscriber
+                      enterprise pipelines; accelerating demand for DPDPA            base
+                      compliance solutions with end-to-end consent lifecycle
+                      management                                                   o Nivruti Platform (PoP solution) continues to gain
+                                                                                     momentum with a successful deployment at a leading
+                    o KwikID remained the anchor product offering for Think360       pension fund and a new mandate secured from
+                      driving its key revenue for client base                        another fund
+                                                                                   o e-NPS accounted for 8% of new accounts in Q1 of
+                    o Personal Finance Manager live with one of the largest          FY’27
+                      PSU Banks
+
+Investor Presentation                                                                                                                        12
+1. Business Overview
+2. Financials
+3. ESG & CSR Activities
+4. Company Overview
+
+
+
+                          13
+   Revenue Highlights – Q1 FY’27
+
+                                      Revenue
+                               ₹39502.95 Lakh                    Q-o-Q             11.5 %        Y-o-Y
+
+
+
+                                             ₹
+             Asset Based              Non-Asset Based              MF Revenue             Non-MF Revenue
+              Revenue                    Revenue
+             1.4% Q-o-Q                  (5.9%) Q-o-Q                 0.4% Q-o-Q               (2.6%) Q-o-Q
+            11.2% Y-o-Y                  (3.5%) Y-o-Y                 9.0% Y-o-Y               28.4% Y-o-Y
+
+
+                        Asset Mix   Equity component: Q1 FY’27 @ 54.3% (Q4 FY'26: @ 53.5% / Q1 FY'26: @ 53.8%)
+
+Investor Presentation                                                                                            14
+Financial Highlights – Q1 FY’27
+
+            Operating EBITDA – 46.4%                                       PBT – 42.3%                                           PAT – 31.1%
+                                                                                                                                                                  Return on
+                           18,366
+                                                                                                                                                                 Net-Worth*
+                                        18,320                                           17,397                                      12,643     12,802
+             15,482
+                                                                              16,707                                                                               36.8%
+                                                                14,543
+                                                                                                                        10,909
+
+
+
+
+                                                                                                                                                          ** Cash & Cash Equivalent
+             Q1 FY’26     Q4 FY’26   Q1 FY’27                   Q1 FY’26      Q4 FY’26   Q1 FY’27                      Q1 FY’26     Q4 FY’26   Q1 FY’27             as on
+                                                                                                                                                                 th
+                                                                                                                                                               30 June’26 was
+                                                                                                                                                                Rs.971.45 Cr.
+
+                        (0.3%) Q-o-Q                                       4.1% Q-o-Q                                             1.3% Q-o-Q
+                         18.3% Y-o-Y                                       19.6% Y-o-Y                                            17.3% Y-o-Y
+   Profit numbers are after considering the non-cash charge (ESOPs) amounting to ₹ 1.9 Cr. (Q1 FY’27), ₹ 4.2 Cr. (Q1 FY’26) and ₹ 2.4 Cr. (Q4 FY’26)
+
+                                                                         Interim Dividend: ₹ 2.50 Per share
+
+   ❑ * Return on Net-worth – PAT (annualized) / Average Equity for the quarter| ** Includes Bank balances, Fixed deposit, Govt Bond & Investment in MF / Excludes money held in trust
+     (ECS, NPS & Stamp duty collection A/c & Money in unpaid dividend A/c
+   ❑ Numbers are after eliminating non-controlling interest in Think Analytics & Fintuple Technologies | After considering share of loss in MFC JV
+
+
+Investor Presentation
+Investor                                                                                                                                                                                15
+Revenue Profile Q1 FY’27
+                                       Revenue Breakup                                                      Revenue (In ₹ Lakh)
+                           13.0%             15.3%               14.9%
+                           12.7%             11.7%               11.0%
+
+                                                                                                                                 11.5%
+                                                                                   100%
+                           74.3%             73.0%               74.1%
+
+
+
+                        30th June 25      31st March 26        30th June 26
+                                         Quarter ended
+               MF – Assets Based        MF-Non assets Based           Non-Mutual Fund
+
+                                                                                                                   39,522                 39,503
+                                 Breakup of Non-Mutual Fund
+
+                                                          Quarter ended
+    Particulars
+                                        30th June 25      31st March 26       30th June 26
+    AIF                                    2.8%               3.1%               3.1%          35,415
+    CAMSPay                                3.7%               5.0%               5.7%
+    CAMS Rep                               1.5%               1.7%               1.4%
+    Think360 AI                            1.3%               1.1%               1.1%
+    CAMSKRA                                2.1%               2.6%               1.9%        30th June 25       31st March 26            30th June 26
+    Others                                 1.6%               1.8%               1.7%
+    Non-Mutual Fund                       13.0%               15.3%             14.9%                            Quarter ended
+
+
+Investor Presentation
+Investor                                                                                                                                                16
+Consolidated Financial Highlights – Quarterly
+                                                                                                               In INR Lakh                                                                               In INR Lakh
+                                        Total Operating Revenue                                                                                       OP.EBITDA & OP. EBITDA in %
+
+
+                                                                                                                                            43.7%    44.6%                46.0%              46.5%    46.4%
+
+
+
+
+          35,415                  37,674                   39,014                 39,522                  39,503                            15,482   16,813               17,936             18,366   18,320
+
+         FY26 Q1                    Q2                     Q3                        Q4                  FY27 Q1                           FY26 Q1    Q2                   Q3                  Q4     FY27 Q1
+                                                       Total Revenue                                                                                          OP.EBITDA            OP.EBIDA in (%)
+
+
+                                           PBT & PBT in %                                                      In INR Lakh
+                                                                                                                                                                 PAT & PAT in %                          In INR Lakh
+
+
+
+
+           39.6%                   39.7%                   41.1%                   40.9%                   42.3%
+                                                                                                                                            29.7%    29.6%                31.1%              31.0%    31.1%
+
+
+
+          14,543                  15,437                   16,565                 16,707                  17,397                            10,909   11,494               12,554             12,643   12,802
+
+         FY26 Q1                     Q2                      Q3                      Q4                  FY27 Q1                           FY26 Q1    Q2                   Q3                  Q4     FY27 Q1
+                                                     PBT          PBT in (%)                                                                                       PAT          PAT in (%)
+
+  Numbers are after eliminating non-controlling interest in Think Analytics & Fintuple Technologies | After considering share of loss in MFC JV
+
+Investor Presentation
+Investor                                                                                                                                                                                                               17
+    Q1 FY’27 & FY’26 Standalone P&L
+                                                                                           ₹ in Lakh
+
+    Particulars                              Q1 FY'27    Q1 FY'26      Y-o-Y    Q4 FY'26           Q-o-Q            FY'26
+    Revenue from operations                 35,304.80   33,438.27   1,866.53   35,700.73         (395.93)      1,41,225.69
+    Other income                             1,464.16    1,058.30    405.86     1,087.84           376.32        4,238.05
+    Total revenue                           36,768.96   34,496.57   2,272.39   36,788.57          (19.61)      1,45,463.74
+    Expenses
+    Employee benefits expense                9,519.89    9,705.65    185.76     9,813.97           294.08       39,256.72
+    Finance costs                             128.82      162.71      33.89      130.91                 2.09       592.38
+    Depreciation and amortisation expense    2,163.56    1,796.13   (367.43)    2,478.87           315.31        8,661.14
+    Other expenses                           8,636.36    8,815.69    179.33    10,764.59        2,128.23        38,534.16
+    Total expenses                          20,448.63   20,480.18     31.55    23,188.34        2,739.71        87,044.40
+    Profit before tax                       16,320.33   14,016.39   2,303.94   13,600.23        2,720.10        58,419.34
+    Tax expense
+    Current tax                              4,075.46    3,508.56   (566.90)    4,160.10               84.64    15,205.97
+    Current tax expense of earlier years            -           -          -    (221.34)         (221.34)         (456.43)
+    Deferred tax                               63.51      (11.17)    (74.68)    (237.77)         (301.28)          (39.81)
+    Net tax expense                          4,138.97    3,497.39   (641.58)    3,700.99         (437.98)       14,709.73
+    Profit / (Loss) for the period          12,181.36   10,519.00   1,662.36    9,899.24        2,282.12        43,709.61
+    Earnings per share (In ₹):
+    Basic                                        4.91        4.26                   3.99                            17.66
+    Diluted                                      4.89        4.24                   3.98                            17.56
+
+
+
+
+Investor Presentation
+Investor                                                                                                                     18
+Q1FY’27 & FY’26 Standalone P&L (with split of operating & other expenses)
+                                                                                          ₹ in Lakh
+
+   Particulars                             Q1 FY’27    Q1 FY’26       Y-o-Y   Q4 FY’26            Q-o-Q            FY’26
+   Revenue from operations                 35,304.80   33,438.27   1,866.53   35,700.73         (395.93)      1,41,225.69
+   Other income                             1,464.16    1,058.30    405.86     1,087.84          376.32         4,238.05
+   Total revenue                           36,768.96   34,496.57   2,272.39   36,788.57          (19.61)      1,45,463.74
+   Expenses
+   Employee benefits expense                9,519.89    9,705.65    185.76     9,813.97          294.08        39,256.72
+   Finance costs                             128.82      162.71      33.89      130.91                 2.09       592.38
+   Depreciation and amortisation expense    2,163.56    1,796.13   (367.43)    2,478.87          315.31         8,661.14
+   Operating expenses                       5,797.56    6,298.38    500.82     6,098.24          300.68        25,795.57
+   Other expenses                           2,838.80    2,517.31   (321.49)    4,666.35        1,827.55        12,738.59
+   Total expenses                          20,448.63   20,480.18     31.55    23,188.34        2,739.71        87,044.40
+   Profit before tax                       16,320.33   14,016.39   2,303.94   13,600.23        2,720.10        58,419.34
+   Tax expense
+   Current tax                              4,075.46    3,508.56   (566.90)    4,160.10               84.64    15,205.97
+   Current tax expense of earlier years            -           -          -    (221.34)         (221.34)         (456.43)
+   Deferred tax                               63.51      (11.17)    (74.68)    (237.77)         (301.28)          (39.81)
+   Net tax expense                          4,138.97    3,497.39   (641.58)    3,700.99        (437.98)        14,709.73
+   Profit / (Loss) for the period          12,181.36   10,519.00   1,662.36    9,899.24        2,282.12        43,709.61
+   Earnings per share (In ₹):
+   Basic                                        4.91        4.26                   3.99                            17.66
+   Diluted                                      4.89        4.24                   3.98                            17.56
+
+
+
+
+Investor Presentation
+Investor                                                                                                                    19
+ Q1FY’27 & FY’26 Consolidated P&L                                                                                              ₹ in Lakh
+
+ Particulars                                                                   Q1 FY'27    Q1 FY'26       Y-o-Y     Q4 FY'26           Q-o-Q             FY'26
+ Revenue from operations                                                      39,502.95   35,415.19    4,087.76    39,522.02          (19.07)       1,51,624.90
+ Other income                                                                  1,658.17    1,314.78      343.39     1,293.77          364.40          5,116.71
+ Total revenue                                                                41,161.12   36,729.97    4,431.15    40,815.79          345.33        1,56,741.61
+ Expenses
+ Employee benefits expense                                                    12,366.49   12,243.71    (122.78)    12,533.37          166.88         49,701.98
+ Finance costs                                                                  148.04      193.67        45.63      152.60                 4.56        698.37
+ Depreciation and amortisation expense                                         2,454.73    2,084.38    (370.35)     2,804.07          349.34          9,877.37
+ Other expenses                                                                8,862.56    7,743.46   (1,119.10)    8,677.06        (185.50)         33,532.36
+ Total expenses                                                               23,831.82   22,265.22   (1,566.60)   24,167.10          335.28         93,810.08
+ Profit before tax from ordinary activities before Share of Profit / (Loss)
+ of Joint venture                                                             17,329.30   14,464.75    2,864.55    16,648.69          680.61         62,931.53
+ Share of profit / (loss) of joint venture (net of tax)                         (24.50)     (25.70)        1.20      (40.85)               16.35        (76.20)
+ Profit before tax for the period / year                                      17,304.80   14,439.05    2,865.75    16,607.84          696.96         62,855.33
+ Tax expense
+ Current tax                                                                   4,425.21    3,740.06    (685.15)     4,571.40          146.19         16,424.90
+ Current tax expense of earlier years                                                 -     (59.01)      (59.01)    (221.17)        (221.17)           (515.28)
+ Deferred tax                                                                   170.07      (46.12)    (216.19)     (286.76)        (456.83)           (256.12)
+ Net tax expense                                                               4,595.28    3,634.93    (960.35)     4,063.47        (531.81)         15,653.50
+ Profit / (Loss) for the period                                               12,709.52   10,804.12    1,905.40    12,544.37          165.15         47,201.83
+ Non-Controlling Interest                                                       (92.07)    (104.93)      (12.87)     (98.96)               (6.89)      (398.74)
+ Profit attributable to Owners of the Company                                 12,801.59   10,909.05    1,892.53    12,643.33          158.26         47,600.57
+ Earnings per share (In ₹):
+ Basic                                                                             5.16        4.41                     5.10                             19.23
+ Diluted                                                                           5.14        4.39                     5.08                             19.13
+
+
+Investor Presentation
+Investor                                                                                                                                                          20
+Q1FY’27 & FY’26 Consolidated P&L (with split of operating & other expenses)                                            ₹ in Lakh
+Particulars                                                            Q1 FY'27    Q1 FY'26       Y-o-Y     Q4 FY'26               Q-o-Q          FY'26
+Revenue from operations                                               39,502.95   35,415.19    4,087.76    39,522.02               (19.07)   1,51,624.90
+Other income                                                           1,658.17    1,314.78      343.39     1,293.77               364.40      5,116.71
+Total revenue                                                         41,161.12   36,729.97    4,431.15    40,815.79               345.33    1,56,741.61
+Expenses
+Employee benefits expense                                             12,366.49   12,243.71    (122.78)    12,533.37               166.88     49,701.98
+Finance costs                                                           148.04      193.67        45.63      152.60                  4.56        698.37
+Depreciation and amortisation expense                                  2,454.73    2,084.38    (370.35)     2,804.07               349.34      9,877.37
+  Operating expenses                                                   5,696.72    4,850.92    (845.80)     5,446.69           (250.03)       20,971.42
+Other expenses                                                         3,165.84    2,892.54    (273.30)     3,230.37                64.53     12,560.94
+Total expenses                                                        23,831.82   22,265.22   (1,566.60)   24,167.10               335.28     93,810.08
+Profit before tax from ordinary activities before Share of Profit /
+(Loss) of Joint venture                                               17,329.30   14,464.75    2,864.55    16,648.69               680.61     62,931.53
+Share of profit / (loss) of joint venture (net of tax)                  (24.50)     (25.70)        1.20      (40.85)                16.35        (76.20)
+Profit before tax for the period / year                               17,304.80   14,439.05    2,865.75    16,607.84               696.96     62,855.33
+Tax expense
+Current tax                                                            4,425.21    3,740.06    (685.15)     4,571.40               146.19     16,424.90
+Current tax expense of earlier years                                          -     (59.01)      (59.01)    (221.17)           (221.17)         (515.28)
+Deferred tax                                                            170.07      (46.12)    (216.19)     (286.76)           (456.83)         (256.12)
+Net tax expense                                                        4,595.28    3,634.93    (960.35)     4,063.47           (531.81)       15,653.50
+Profit / (Loss) for the period                                        12,709.52   10,804.12    1,905.40    12,544.37               165.15     47,201.83
+Non-Controlling Interest                                                (92.07)    (104.93)      (12.87)     (98.96)                (6.89)      (398.74)
+Profit attributable to Owners of the Company                          12,801.59   10,909.05    1,892.53    12,643.33               158.26     47,600.57
+Earnings per share (In ₹):
+Basic                                                                      5.16        4.41                     5.10                              19.23
+Diluted                                                                    5.14        4.39                     5.08                              19.13
+
+
+Investor Presentation
+Investor                                                                                                                                                   21
+1. Business Overview
+2. Financials
+3. ESG & CSR Activities
+4. Company Overview
+
+
+
+                          22
+   ESG Achievements
+
+
+                                                                          •   Pursuant to Regulation 34(2)(f) of the SEBI (LODR) Regulations, 2015, the
+                                                                              Company is required to comply with the Business Responsibility and
+                                  Procurement of                              Sustainability Reporting (BRSR) framework as a part of Annual reporting
+                                 29% of renewable                             obligations
+                                      energy
+                                                                          •   BRSR reflects the Environmental, Social and Governance (ESG) aspects of
+                                                                              the business
+
+               Encouraged use                                             •   In addition to the above, mandatory assurance on the BRSR Core
+                 of Charging                                                  indicators from the FY 2025-26 as the Company falls within Top 500 listed
+                  station for
+                 e-Bikes and
+                                                                              entities as per the market capitalization
+                 Electric cars
+                                                                          •   Engagement of an external agency for deciding an efficient roadmap to
+                                               Replacement of Air
+                                             Conditioners (Acs) after
+                                                                              BRSR and for achieving the Net Zero Targets in accordance with the
+                                            end-of-life with AC’s that        Science Based Target initiative (SBTi)
+                                               are compatible with
+                                          refrigerants that have lesser
+                                                    GWP factor            •   BRSR report and Limited Assurance report for the FY 2025-26 have been
+                                                                              published as a part of the Annual report of the Company
+
+
+
+
+Investor Presentation                                                                                                                                     23
+1. Business Overview
+2. Financials
+3. ESG & CSR Activities
+4. Company Overview
+
+
+
+                          24
+  CAMS – Business at a Glance
+
+
+          Technology-driven
+                                                  India’s largest registrar and                                                                   Leveraged domain
+       financial infrastructure                                                                        Services 9 of the 15 largest
+                                                    transfer agent (“RTA”) of                                                                  expertise, processes and
+      and services provider to                                                                           MFs2; over 23.3 years
+                                                  mutual funds (“MFs”) with an                                                                 infrastructure to cater to
+      mutual funds and other                                                                            average relationship with
+                                                   aggregate market share of                                                                    MFs, AIFs and insurance
+         financial institutions                                                                           10 largest MF clients
+                                                              67.2%                                                                                    companies
+
+
+                                                                   Established track record of                     Marquee shareholders, including,      Experienced management
+                      Pan-India physical
+                                                                    delivering robust financial                     HDB, Fidelity, Seafarer, LIC,         team with average work
+                     network comprising
+                                                                     results; Fastest growing                          Whiteoak, Vanguard, Aditya            experience of over
+                         285+ service
+                                                                   MF RTA with high RoE and                              Birla Sun Life, Franklin          27 years in a variety of
+                           centers
+                                                                         EBITDA margins                                        Templeton                  financial services sectors
+                  spread over 25 states and
+                      5 union territories
+
+
+
+
+  Notes: 1. Market share basis Q1 FY’27
+         2. Based on mutual fund average assets under management managed by clients and serviced by CAMS as per AMFI
+
+
+
+Investor Presentation                                                                                                                                                                  25
+  CAMS – Mutual Fund Services Business
+                                                              Provides a range of technology-enabled infrastructure to mutual funds –
+                              Involved through the life cycle of an account from account creation to processing transactions and redemption of the amount invested
+
+
+                                                                                                             Uniform Regulatory change
+                                 Service                      Best Practice Implementation                                                                    Business-Continuity Mechanisms
+                                                                                                             implementation
+                               Aggregator
+
+
+                                                              Manage High Volume                 Infrastructural                    Support Timely                      Operational
+                               Business Enabler
+                                                              of Data / Transactions             Stability                          Launches of NFOs                    Integration
+
+
+
+                                                                   Extensive Data on                 Actionable                        High Capability of                 Innovative Product
+                           Knowledge Partner
+                                                                   Investor Preferences              Insights                          Processing Expertise               Development
+
+
+                                                                                                                        Service Requests
+                                                                         Call Centre               Mail back /                                         Front Office            Transaction
+                        Customer Care & Investor Services                                                               and Account
+                                                                         Services                  SMS Services                                        Services                Processing
+                                                                                                                        Information
+
+
+                                                                             Recording of                    Recording of
+                                                                                                                                           Brokerage                        Distributor
+                           Distributor Services                              Empanelled                      Brokerage
+                                                                                                                                           Computation                      Queries
+                                                                             Distributors                    Structures
+
+
+                                                                               Transaction                                     Investor                Risk
+                         Transfer Agency Services                                                      Operations                                                               Compliance
+                                                                               Origination                                     Services                Management
+
+
+
+Investor Presentation                                                                                                                                                                          26
+  Nurturing Innovation Through Our Industry First Products & Solutions
+     Mutual Funds
+
+
+
+
+                                                    edge360          GoCORP         Opera360          DiCE Pro            Ferreto       Watchtower360
+                  Business        myCAMS                                                         Distributor Commission AML Solutions
+                                                  Platform for     Platform for    Smart Audit                                          Insider trading
+                Intelligence   Single gateway,                                                      & Empanelment
+                                                 intermediaries   intermediaries     Portal                                               monitoring
+                Application    multiple funds                                                         Application
+
+
+                                                                                                        INVITs & REITs                   CAMSPay
+                CAMSKRA                              CAMS for Alternatives
+
+
+                                                 Feature-rich               Insightful
+                 Instant KYC                     digital stack               market                     Data Benchmarking
+                                                                           intelligence                     Institution                   UPI AutoPay
+
+             CAMSRep                                                           Think360                                       DPDP           CAMSAi
+                                                                               Affluence 360 DataX360     RAIDAR
+           eIA Customer          Unconventional Account              Digital   Pin code level Data Lake Marketing                             Regulatory
+                                                                                  insights             Communication                          Compliance
+           Servicing for         Alternative Data Aggregator      Onboarding
+                                                                                                        Surveillance
+           Insurers and              Insights      Services        and Video
+              Brokers                                                 KYC
+Investor Presentation                                                                                                                                      27
+  Mutual Fund Services Provided by CAMS
+                                            CAMS is involved through the life cycle of an account – from account creation to processing to redemption;
+                   Also provides statutory statements, transaction origination, operations, investor and distributor services, risk management services and compliance services
+
+   1                                                                                        Transaction Origination and Processing
+
+
+                                                                                                                                                                                             Reconcile bank accounts;
+       Accept transaction requests                                                                                                                          Send transaction
+                                               Initial verification of                Management of KYC             Transaction processing and                                             Compute and pay brokerage
+       from investors (both paper-                                                                                                                      confirmation to investors
+                                                transaction request                requirements of investors            payment services                                                    fees; Report effect on unit
+          based and electronic)                                                                                                                              and distributors
+                                                                                                                                                                                                      capital
+
+
+                                                   Front Office                                                                                                 Back Office
+   2                           Services to Asset Management Companies                                           3           Services to MF Investors                  4             Services to Distributors
+
+            Record keeping and management                                Anti-money laundering services                    Periodic statements and alerts                             Distributor help desk
+
+              Reporting to govt. authorities                         Suspicious transaction reporting                  Assist with Queries / Service Requests                 Recording of distributors empanelled
+
+                                                                                                                                                                              Recording & maintenance of brokerage
+            Compliance with KYC regulations                        Compliance with scheme document                     Mail management, mail back services
+                                                                                                                                                                                           structures
+
+            Compliance with SEBI regulations                       Management information reporting                       SMS / Online customer service                         Computation of various brokerage
+
+                 Setting up of accounts                            Fee computation and administration                      Call center to address queries                           Claw-back of brokerages
+
+                                          On-boarding of intermediaries                                                        Push and pull services                             Addressing distributor queries
+
+
+
+Investor Presentation                                                                                                                                                                                                     28
+                        Market leader in Mutual Funds payment processing
+                        As a scalable, full-stack BFSI-focused payments platform, CAMSPay provides a holistic
+                        suite of services that lead the way in achieving same-day NAV processing and expedited
+                        on-boarding and authentication of new customers.
+
+
+
+                        5.04 Mn+                            ~40%
+                        UPI AutoPay Mandate                 Of Overall Insurance Industry-
+                        Registrations                       NACH Transactions
+
+
+
+
+                        1.2 Mn+                             13.8 Mn+
+                        NACH Mandate                        Bank Accounts Validated
+                        Registrations
+
+
+
+
+Investor Presentation                                                                                            29
+                                                                                                                  3
+                        The leading platform and service partner for alternatives, Combining versatile
+                        technology, contemporary digital utilities and full stack services for investor
+                        on- boarding, fund accounting and operations has helped us scale to become the
+                        largest platform & service partner for alternatives.
+
+
+
+                               550+                                         ₹3.2 Tn.
+                               funds serviced                               Assets Under
+                               across 260+ fund houses                      Service
+
+
+
+                               285+                                         28,200+
+                                                                            investors onboarded
+                               Installations
+                                                                            since launch, reflecting
+                               of CAMS WealthServ and
+                                                                            strong industry
+                               Fintuple’s digital
+                                                                            adoption
+                               on-boarding solution
+
+
+
+
+Investor Presentation                                                                                     30
+                        CAMS KRA, the second-largest KYC Registration Agency, is rapidly expanding its reach
+                        in the capital market. Leveraging AI and automation, we're offering innovative solutions
+                        like our 10-minute KYC process to streamline operations and attract new clients. Our
+                        focus on operational excellence and strategic partnerships positions us as a preferred
+                        fintech solution provider for FY’25.
+
+                        Leading from the front with first-in-the-industry initiatives
+                        • 10 Min KYC – the only KRA in the country to process a KYC request in 10 minutes
+                        • Nexus – KRA Dashboard for financial institutions to track online PAN registration
+                          status with CAMS KRA
+                        • Received in-principle approval as an IFSCA-authorised KYC Registration Agency
+                          (KRA) in GIFT City on 01st July, 2026 which unlocks a powerful market
+                          opportunity
+
+
+                                  2nd                            2 Cr.+                          20%
+                              largest KRA                      KYC Records                   Market Share
+
+
+Investor Presentation                                                                                              31
+                        The premier customer experience platform in India to service both Insurance
+                        companies & policy holders empowers over 45 insurance companies with end-to-end
+                        operational support and technology-driven solutions. India’s first insurance portfolio
+                        management platform, Bima Central, offers policy holder services, renewal reminders,
+                        cover dashboard, policy download, policy highlights, etc.
+
+
+
+
+                        10.7 Mn.                >14Mn.+                2.5Mn.                      ~100 K
+                        e-Insurance             e-Policies             Unique Active               Average Monthly
+                        (eIA) accounts          under service          Bima Central Users          Service Transactions
+
+                        Insurer Services
+                        16 Clients                 11.74 Bn.                    4.43 Mn.
+                        Across Life, Health &      Premium collected            POS Transactions
+                        General Insurers                                        processed
+
+
+Investor Presentation                                                                                                     32
+                        CAMS industry-first NPS CRA platform on award winning cloud platform
+                        Launched by PFRDA Chairman in March’22, CAMS eNPS platform is
+                        designed to provide superior subscriber experience leveraging robust
+                        technology and deep experience in serving customers for pension account
+                        opening, record keeping and maintenance services
+
+
+
+
+                        10.6%                               #2
+                        Market share in                     in eNPS
+                        Non-Govt. business                  onboarding
+
+
+                        23                                  90%
+                        PoPs active on                      C-SAT score
+                        CAMS platform
+
+
+
+Investor Presentation
+Investor Presentation                                                                             33
+                                                                                                  40
+                        Winning strides in the path breaking Account Aggregator arena
+                        CAMSfinserv is among the first RBI-licensed account aggregator platform to
+                        drive adoption of consent-based sharing of financial asset information among Banks,
+                        financial institutions, Fintechs and customers and shape the inevitable future of
+                        digital lending, onboarding and advisory.
+
+
+
+                        9%                      90+                                     363
+                        Market share            FIPs Integrated including               Enterprises onboarded
+                                                Banks, Insurance                        on CAMSfinserv
+                                                companies & CRA
+
+
+
+
+Investor Presentation                                                                                           34
+                        Full stack data science & AI-centric solutions to propel BFSI enterprises
+                        A trusted advisor and digital partner to marquee Indian BFSI enterprises,
+                        Think360 pioneers in Alternative Data and AI Credit Scoring solutions. Think360 offers
+                        modern AI capabilities that transform KYC and customer onboarding, and enable
+                        financial institutions to rapidly scale their API and partnership infrastructure.
+
+
+                         190+                      135 Mn.+
+                         Clients Served            Customer IDs Processed
+
+
+
+
+                         150+                      AI Products
+                         AI & Data Science         ConsenPro pipeline: 50+ conversations;
+                         Experts                   Expanded RAIDAR to AMFI; BFSI &
+                                                   enterprise proposals active. US AI Services
+                                                   client onboarded
+
+
+Investor Presentation                                                                                            35
+  Corporate Structure
+                                 Computer Age Management Services Limited
+
+                  100%                   100%                                      100%                           55%
+
+                                                                          CAMS Financial Information
+    CAMS Insurance Repository     CAMS Investor Services                                                 Think Analytics India Pvt
+                                                                           Services Private Limited
+     Services Limited (CIRSL)     Private Limited (CISPL)                                                        Limited
+                                                                                   (CFISPL)
+
+                                                                 50%
+
+
+
+                                                       MF Central Technologies
+                                                           Limited (MFC)
+
+                                                                                                                 100%
+
+                                                                                                       Think Analytics Consultancy
+                                                                                                            Services Pvt Ltd*
+                 100%                    100%                                      100%
+                                                                                                         Think360 AI, Inc (USA)
+
+     Sterling Software Pvt Ltd   CAMS Payment Services                      Fintuple Technologies
+               (SSPL)               Private Limited                             Private Limited
+                                                                                                                        * Under Liquidation
+
+
+Investor Presentation                                                                                                                    36
+  Experienced Board of Directors
+                                                                                  Board of Directors
+
+
+                                                                              Vijayalakshmi Rajaram Iyer
+                    Dinesh Kumar Mehrotra                                                                                                Pravin Udhyavara Bhadya Rao
+                                                                              Independent Director
+                    Chairman & Non - Independent Director                                                                                Independent Director
+
+
+
+
+                                                                                                                                          Anuj Kumar
+                   Narumanchi Venkata Sivakumar                               Santosh Kumar Mohanty
+                                                                                                                                          Managing Director
+                   Independent Director                                       Independent Director
+
+
+
+
+                        • Narumanchi Venkata Sivakumar             Stakeholders      • Santosh Kumar Mohanty                                     • Dinesh Kumar Mehrotra
+      Audit             • Dinesh Kumar Mehrotra                    Relationship      • Pravin Udhyavara Bhadya Rao
+                                                                                                                                  CSR and ESG
+                                                                                                                                                 • Narumanchi Venkata Sivakumar
+    Committee           • Vijayalakshmi Rajaram Iyer               Committee         • Anuj Kumar
+                                                                                                                                   Committee
+                                                                                                                                                 • Anuj Kumar
+                        • Santosh Kumar Mohanty
+
+                                     Nomination &     • Vijayalakshmi Rajaram Iyer                    Risk           • Vijayalakshmi Rajaram Iyer
+                                     Remuneration     • Dinesh Kumar Mehrotra                     Management         • Narumanchi Venkata Sivakumar
+                                      committee       • Santosh Kumar Mohanty                      Committee         • Pravin Udhyavara Bhadya Rao
+
+
+Investor Presentation                                                                                                                                                             37
+   Experienced management team with 27+ years average tenure, skilled
+   in business growth, diversification, and innovation
+    Anuj Kumar – Managing Director                                                Ramcharan Sesharaman – Chief Financial Officer
+
+    • Joined the company in March 2016                                            • Joined the company in March 2020
+    • Previously associated with Godrej & Boyce, Escorts Finance & IBM India      • Previously associated with Photon Interactive and Reliance Jio Infocom
+
+    Soumendu Sekar Ganguly – Chief Operating Officer                              Ravi Kethana – Chief Platform Officer
+
+    • Joined the company in April 2017                                            • Joined the company in December 2019
+    • Previously associated with Naukri, 99acres and Shiksha, and Sulekha         • Previously associated with Tata Consultancy Services and Wipro
+
+     Syed Hassan – Chief Program Officer                                          Prabal Nag – Chief Business Officer
+                                                                                  • Joined the company in June 2009
+    • Joined the company in March 2022
+                                                                                  • Previously associated with Metropolitan Life USA, JM Financial Asset Management and
+    • Previously associated with DXC Technology, Britannia Industries, Unilever
+                                                                                    JP Morgan Asset Management India
+
+    ES Varadharajan – Chief Risk & Process Officer                                Rahul Sethi – Chief Marketing Officer
+
+    • Joined the company in 2002                                                  • Joined the company in Sep 2024
+    • Previously associated with UTIMF                                            • Previously associated with Worldline, Edelweiss Financial Services, Lady Blush,
+                                                                                    Ibibo Web Pvt Ltd., etc.
+    Manikandan Gopalakrishnan – Company Secretary & Compliance Officer            Deepak Kumar Singh – Chief Information Security Officer
+
+    • Joined the company in June 2011                                             • Joined the company in May 2024
+    • Previously associated with BPL, Precot Meridian & SJK Steel Plant           • Previously associated with Indian Navy
+
+    Girish Sankar – Chief Strategy Officer & Business Head – Alternatives & AA    Neha Sanjeev – Chief of Staff
+
+    • Joined the company in September 2017                                        • Joined the company in October 2016
+    • IDFC Bank, Yes Bank, Barclays Bank, Infosys                                 • Previously associated with TCS
+
+Investor Presentation                                                                                                                                                     38
+  Experienced management team with 27+ years average tenure, skilled in
+  business growth, diversification, and innovation
+     Prasenjit Datta, Chief Technology Officer – CAMS                                            Vivek Bengani, Chief Executive Officer – CAMSRep
+     • Joined the company in March 2022                                                          • Joined the company in March 2022
+     • Previously associated with BFSI organization’s such as Edelweiss Tokio Life, ING Group,   • Previously associated with BFSI organization’s such as Edelweiss Tokio Life, ING Group,
+       Exide Life Insurance and SBI Capital markets                                                Exide Life Insurance and SBI Capital markets
+
+     Vasanth Emmanuel Jeyapaul, Chief Executive Officer – CAMSPay                                Prasenjit Mukherjee, Senior Vice President and Business Head – CAMS CRA
+     • Joined the company in October 2017
+     • Bennett, Coleman & Co. Ltd., Agenda Net marketing Ltd. and Financial Software &           • Joined the company in June 2022
+       Systems Pvt. Ltd.                                                                         • Previously associated with NSDL, now Protean e-Gov Technologies Ltd
+
+
+    Anish Jagdish Sawlani, Chief Executive Officer – CAMSKRA                                     Amit Das, Co-Founder and Chief Executive Officer – Think360 AI
+                                                                                                 • Joined the company in December 2020
+     • Joined the company in 2016
+                                                                                                 • Previously associated with 3i Infotech, PwC US, EXL and TCS
+     • Previously associated with Sundaram Finance, Sundaram Business Services, Idea Cellular
+
+
+     Suryadip Ghoshal, Co-Founder and Chief Analytics Officer – Think360 AI
+
+     • Joined the company in 2nd January 2023
+     • Previously associated with PwC US and FICO
+
+
+
+
+Investor Presentation                                                                                                                                                                        39
+  History / Milestones
+
+ • Our Company was            • Our Company was issued • The certificate of              • Our Company was issued • Our Company was issued •          CIRSL was incorporated • CISPL was incorporated      • CIRSL was issued a
+  incorporated as              a certificate of            registration was issued to     a certificate of               a certificate of             on May 12, 2011          on February 13, 2012          certificate of registration
+  Computer Age                 registration as a           our Company was                registration dated             registration dated       •   CIRSL had received in- • CISPL was issued a            dated July 31, 2013 by
+  Management Services          Registrar to an Issue       upgraded and a fresh           June 1, 2006 by SEBI to        January 31, 2007 by SEBI     principle approval of    certificate of registration   IRDAI to carry on the
+  Private Limited and          under category II, dated    certificate of registration    act as a depository            to act as a depository       IRDAI to carry on        dated June 29, 2012 to        business as an insurance
+  received a certificate of    December 24, 1993 by        as Registrar to an Issue       participant for NSDL           participant for CDSL         business as an           carry on the business as a repository
+  incorporation from the       SEBI                        and Share Transfer Agent                                                                   insurance repository     KRA                         • Our Company acquired
+  RoC on May 25, 1988                                      under category I, dated                                                                                                                           100% stake in SSPL, which
+                                                           July 22, 1995, was issued                                                                                                                         provides technology
+                                                           by SEBI to our Company                                                                                                                            support to our Company
+
+
+          1988                        1993                          1995                          2006                          2007                       2011                         2012                         2013
+
+                                                                                                                                                                                                                • Acquired KRA business
+                                                                                                                                                                                                                  of NSE
+                                                                                                                                                                                                                • E-IA policies exceeded
+ • CFISPL was incorporated    • Our Company was           • Listed in BSE on             • Certification of             • CAMS CRA Go-Live         • CAMSPay receives in-         • CAMSPay receives final        1 Cr.
+   on September 26, 2016       converted into a public      October 1st, 2020              Registration for CRA         • Acquired majority stake   principle authorization         approval from RBI to        • CAMSKRA became
+                               limited Company and        • RBI registration for           Services                       in Fintuple Technologies  from RBI to operate as a        operate as a Payment          2nd largest KRA
+                               received a fresh             account aggregator           • Franklin Templeton             Pvt Ltd                   Payment Aggregator              Aggregator
+         2016                  certificate of               Services                       Go-Live                      • Launched innovation lab • CAMS Acquires majority        • Launch of REIT platform              2025
+                               incorporation from the     • Incorporation of             • Set up office in GIFT City     at IIT Madras             stack in Think360 AI            CompaREITnow
+                               RoC on September 27,                                                                                                                                                             •   In-principle approval
+                                                            CAMSPay (payment             • Account aggregator                                                                     • JV formed along with
+ • Great Terrain acquired      2019; and Great Terrain                                                                                                                              KFin technologies for           for GIFT City KRA
+                                                            aggregator services)           launch
+  37.50% stake in our          acquired 6.03% stake in                                                                                                                              MFCentral                   •   ConsenPro goes live
+  Company                      our Company                                               • MF Central launch                                                                                                        with clients
+
+
+         2018                             2019                           2020                          2021                         2022                        2023                          2024                       2026
+
+Investor Presentation                                                                                                                                                                                                                 40
+  Awards and Accolades
+
+                                                                      FY23-24                                                                            FY25-26
+
+
+
+    • CAMS Wins LACP vision for Annual Report                                       • Think360 AI has been recognized as ‘Top Data Science Services Providers’ by
+                                                                                      AIM Research
+    • CAMS FE CFO Awards CAMS was selected in the Small Enterprises category
+      CFO Mr. Ramcharan Sesharaman was honoured with the prestigious Award          • Think360.AI was awarded with 'Best Data Intelligence Analytics Developer
+    • BW HR Excellence Awards 2023 For Employee Engagement strategy category          2023’ in the Small Business Awards Category at Global Business Awards
+    • Economic Times Datacon Award 2023 under Smart Data Applications               • Banking Frontier’s Technoviti Awards 2024 – CAMSfinserv for ‘LAMF solution’
+      Software category                                                             • Bank Frontier’s Technoviti Awards 2024 – CAMSPay for ‘Daily SIP on UPI
+    • CAMSFinserv Wins Banking Frontier’s Technoviti 2023 for implementing            AutoPay’
+    • Account Aggregator based bank account validation in myCAMS Application        • Business World Award 2024 Young Leader under 40’ award for –
+      (with 6 Mn+ registered users) for Third Party verification                      Anish Sawlani, CEO of CAMSKRA
+    • Think360 AI has been recognized by Fintech Global in the 3rd Edition of the
+                                                                                    • Business World Award 2024 – CAMSFinserv was awarded for ‘Open Banking
+      AIFintech100 list
+                                                                                      Solution’
+    • Think360 AI is now a Great Place to Work Certified Company
+                                                                                    • Tatva awards 2024 – CAMSPay for Best Service Provider award for AutoPay
+    • HDFC Bank has honored CAMSPay with the prestigious ‘Best Corporate
+                                                                                      and CAMSRep for ‘Digital Payment Solutions’ from ICICI Prudential Life
+      Technology Adoption’ award
+                                                                                      Insurance
+    • CAMS was the 𝗪𝗜𝗡𝗡𝗘𝗥 for the award category “𝗡𝗲𝘄 𝗜𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲𝘀 𝗜𝗧
+      𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗔𝘄𝗮𝗿𝗱” at the “𝟭𝟲𝘁𝗵 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 𝗗𝗮𝘁𝗮𝗖𝗲𝗻𝘁𝗲𝗿 𝗦𝘂𝗺𝗺𝗶𝘁 &                • CAMS Insurance Repository – ‘Best Use of Technology’ award at the
+      𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟯” organized by UBS Forums Pvt. Ltd                                   Insurance Leaders Meet 2024 & Excellence Awards
+    • Think360 AI has been recognized as ‘Top Data Science Services Providers’ by   • CAMSRep was awarded for ‘Best in Class for Tech-Enabled Innovation’ at
+      AIM Research                                                                    the ASSOCHAM 16th Global Insurance Summit & Award 2024
+    • Think360.AI was awarded with 'Best Data Intelligence Analytics Developer      • Drivers of Digital Awards-Bima Central by CAMSRep – Best Use of Digital
+      2023' in the Small Business Awards Category at Global Business Awards           Media (Insurance Category)
+    • “𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗔𝘄𝗮𝗿𝗱” at the “𝟭𝟲𝘁𝗵 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 𝗗𝗮𝘁𝗮𝗖𝗲𝗻𝘁𝗲𝗿 𝗦𝘂𝗺𝗺𝗶𝘁 &               • Drivers of Digital Awards – CAMSPay – Best Online Payments Solution (BFSI)
+      𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟯” organized by UBS Forums Pvt. Ltd.
+
+Investor Presentation                                                                                                                                               41
+  Awards and Accolades
+
+                                                                      FY25-26                                                                             FY26-27
+
+
+
+   • Awards 2025 – for Bima Central’s role in solving insurance usage for the         • CAMSPay’s UPI Offline Plus has been honored with the Technoviti Awards 2026 for
+     whole of India                                                                     innovation in payments organized by Banking Frontiers
+   • CAMSPay has been awarded for ‘Excellence in Payment Aggregation – BFSI–
+     Merchant Category’ by Inkspell Media
+   • Best Insurance Tech Solution’ Award at the Global Fintech Festival
+     Awards 2025
+   • Best InsurTech of the Year’ Award at the Asia Fintech Awards 2025 – First
+     International Award
+   • 4-Star Innovation Rating by Aegis Graham Bell Award, recognized by Ministry of
+     Electronics and Information Technology
+     5th time TATAVA Annual Award Winner. ‘Policyholder Payout Processing for
+     Retail & Group’ by ICICI Prudential Lif
+   • Think 360-Best RegTech Innovation at the ET BFSI Exceller Awards 2025
+   • Inclusion in the AIFintech100 (2025) list of the world’s most innovative AI
+     solution providers
+   • Recognition by AIM Research as one of the 50 Best Firms for Data Scientists to
+     Work For (2025)
+   • CAMS was recognized for ‘Best Innovation in RegTech’ at the India FinTech
+     Awards 2025
+   • CAMS’s journey, with Anuj Kumar, Managing Director, CAMS, being honored with
+     the ‘ET Edge Impact CEO of the Year’ award, in the category of
+     Turnaround Leader
+   • CAMS has been honored with the Sustainable Infrastructure Leader award at the
+     Data Innovation Awards 2026, presented recently by Hitachi Vantara and
+     Dataquest at Exchange India 2026 – Dehradun
+
+Investor Presentation                                                                                                                                                     42
+Shareholders’ Information
+                                               Stock Data                                                  Shareholding Pattern (%)
+
+
+  Market Capitalisation                                 Shares Outstanding
+  19,778.19 Cr.                                         24,82,04,728
+
+  Free Float                                            Scrip Symbol / Code                        31.56%
+  19,778.19 Cr.                                         CAMS / 5,43,232
+                                                                                                                                                 44.88%
+                                                                                                                   Market Capitalisation
+                                            Top Shareholders                                                             INR Cr.
+
+
+                                                                                                   1.01%
+       HDB                                       Seafarer
+                             Fidelity                          Life Insurance
+    Employees               Emerging
+                                                 Overseas
+                                                                Corporation
+                                                                                   WhiteOak          6.81%
+   Welfare Trust                                 Growth &                         Capital Group
+                           Markets Fund                            of India
+                                               Income Fund
+                                                                                                                     15.72%
+                                                                  Fidelity           Franklin
+     Vanguard                 Vanguard
+                                                Aditya Birla    Investment         Templeton
+   International                Total
+                                               Sun Life ELSS   Trust : Fidelity    Investment
+    Equity Index            International
+                                                 Tax Saver     International         Funds -       FPIs      MFs       Insurance Cos       AIF    Others
+       Funds                 Stock Index
+                                                   Fund          Discovery        Franklin India
+                                Fund
+                                                                   Fund               Fund
+ Note : Data as on 30th June’26
+Investor Presentation
+Investor                                                                                                                                                   43
+COMPANY :
+
+
+
+
+Computer Age Management Services Limited (CAMS)
+Mr.Anish Sawlani |Head – IR |+91 72990 07973 | anish.sawlani@camsonline.com
+Ms. Geetanjali Joshi| AVP - IR |+91 7409983006| geetanjali.j@camsonline.com
+
+
+
+
+INVESTOR RELATIONS ADVISORS :
+
+
+
+
+MUFG Intime India Private Limited
+Mr. Nikunj Seth                          Ms. Sejal Bhattar
++91 9773397958                           +91 7666736666
+nikunj.seth@in.mpms.mufg.com             sejal.bhattar@in.mpms.mufg.com
+
+Meeting Request    Link
+
+
+
+Thank You
+
+                                                                              44
+

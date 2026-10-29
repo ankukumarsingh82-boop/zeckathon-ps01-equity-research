@@ -1,0 +1,54 @@
+{
+  "winner": "CAMS",
+  "cmp": 696.95,
+  "price_date": "2026-10-29",
+  "tp_base": 539.3029128902558,
+  "tp_bear": 339.9745153822454,
+  "tp_bull": 704.9736851036744,
+  "upside_base": -0.22619569138351991,
+  "downside_bear": -0.5121966921841662,
+  "upside_bull": 0.011512569199618738,
+  "pw_target": 530.8885065666079,
+  "pw_value_today": 482.3351945721356,
+  "ke": 0.1323849016096572,
+  "implied_ke": 0.11232145582702213,
+  "ticket_pct_mcap": 0.028776453760067166,
+  "tranches": [
+    {
+      "tranche": "T1 starter",
+      "amount_cr": 100.0,
+      "entry_max": 637.0,
+      "rule": "<= bull-case intrinsic value today; only after Q2 FY27 results confirm AAUM-linked revenue run-rate"
+    },
+    {
+      "tranche": "T2",
+      "amount_cr": 150.0,
+      "entry_max": 564.0,
+      "rule": "<= midpoint of bull and base intrinsic value"
+    },
+    {
+      "tranche": "T3",
+      "amount_cr": 250.0,
+      "entry_max": 490.0,
+      "rule": "<= base-case intrinsic value (expected return >= Ke)"
+    }
+  ],
+  "undeployed": "Held in overnight/liquid funds until bands hit; bands re-computed by the model after every results release; hard review at deployment.review_months (after Q4 FY27); capital still undeployed after 12 months is returned to the fund, not forced into the stock and not parked in an index proxy (all four listed peers trade above model value).",
+  "deployment": {
+    "expected_deployed_cr_gbm": {
+      "3m": 83.12106078175923,
+      "6m": 138.82345967293912,
+      "12m": 208.25725121051406
+    },
+    "expected_deployed_cr_hist": {
+      "3m": 68.13139931740615,
+      "6m": 111.36158701532912,
+      "12m": 144.55747711088503
+    },
+    "sigma": 0.29955052321944853,
+    "adv_cr": 109.01429527548888,
+    "days_to_fill_all": 22.93277219911642,
+    "review_months": 6
+  },
+  "shares_diluted": 24.9305069
+}

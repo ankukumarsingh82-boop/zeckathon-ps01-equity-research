@@ -1,0 +1,134 @@
+October 26, 2026                                                             CS&G/STX/DQ2026/07
+
+1) National Stock Exchange of India Limited                 2) BSE Limited
+   Exchange Plaza, C-1, Block G,                               Phiroze Jeejeebhoy Towers,
+   Bandra Kurla Complex, Bandra (E),                           Dalal Street,
+   Mumbai – 400 051                                            Mumbai – 400 001
+   Scrip Symbol: KFINTECH                                      Scrip Code: 543720
+
+ Sub.      :        Press Release
+ Ref.      :        Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+                    and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)
+
+
+ Dear Sir / Madam,
+
+ Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please find
+ enclosed herewith the Press Release titled “Strong Performance Driven by Broad-Based Revenue
+ Growth and Margin Expansion”.
+
+ This is for your information and records.
+
+ Thanking you,
+
+ Yours faithfully,
+
+ For KFin Technologies Limited
+  ALPANA       Digitally signed by
+               ALPANA UTTAM
+  UTTAM        KUNDU
+               Date: 2026.10.26
+  KUNDU        20:04:38 +05'30'
+
+
+ Alpana Kundu
+ Company Secretary and Compliance Officer
+ ICSI Membership No.: F10191
+
+ Encl.: a/a
+       STRONG PERFORMANCE DRIVEN BY BROAD-BASED REVENUE GROWTH AND MARGIN
+                                    EXPANSION
+Mumbai, October 26, 2026: KFin Technologies Limited announced its financial results for the quarter and half year ended 30th September
+2026 today.
+
+Financial Highlights – Q2FY27
+− Revenue from operations stood at ₹ 4018.0 million, up 29.9% y-o-y;
+− International and other investor solutions revenue up by 157.9% y-o-y; (20.9% y-o-y excl. Ascent); Ascent Fund Services revenue
+     up by 31.3% y-o-y
+− EBITDA stood at ₹ 1,610.3 million, up 18.7% y-o-y, EBITDA margin excl. Ascent at 45.8% and incl. Ascent at 40.1%
+− PAT at ₹ 1003.4 million, grew by 7.5% y-o-y, PAT margin excl. Ascent at 30.5% and incl. Ascent at 25.0%
+− Diluted EPS stood at ₹ 5.78, grew by 7.5% y-o-y
+− Non-domestic mutual fund revenue share in overall revenue improved to 42.1% y-o-y
+Financial Highlights – H1FY27
+− Revenue from operations stood at ₹ 7,583.3 million, up 30.0% y-o-y;
+− International and other investor solutions revenue up by 168.8% y-o-y; (24.3% y-o-y excl. Ascent);
+− EBITDA stood at ₹ 2,830.1 million, up 13.4% y-o-y, EBITDA margin excl. Ascent at 42.8% and incl. Ascent at 37.3%
+− PAT at ₹ 1,755.6 million, grew by 2.9% y-o-y, PAT margin excl. Ascent at 28.7% and incl. Ascent at 23.2%
+− Diluted EPS stood at ₹ 10.12, grew by 3.0% y-o-y
+− Non-domestic mutual fund revenue share in overall revenue improved to 41.0% y-o-y
+− Cash and Cash equivalents stood at ₹ 5,508.6 as on September 30, 2026
+Business Highlights – Q2FY27
+− Overall AAUM1 continues to grow faster than the industry; KFintech’s AAUM growth at 15.1% y-o-y vs. 13.1% for the industry; Overall
+     AAUM market share at 33.1%; Equity AAUM1 growth at 14.3% y-o-y vs. 15.0% for the industry; Equity AAUM market share at 32.8%;
+     Won a new RTA deal from Ashika Group;
+− Number of international clients increased to 515 (Ascent: 394 and KFintech SEA: 121); AAUM increased y-o-y to US$51.9 billion
+     (₹4,943 billion) from US$10.6 billion (₹934 billion); Won four new mandates for fund administration in GIFT city; Singapore, the
+     USA, and the Middle East remain Ascent’s fastest-growing markets, with 24 new funds added in SG, 10 in the US, and 7 in the ME
+− Added 437 new corporate clients under issuer solutions; Market share2 in NSE500 companies at 50.2%; New IPO mandates won
+     during the quarter includes Abakkus Asset Manager, Mahanadi Coalfields, JSW One platform, Goldi Solar, Muthoot FinCorp etc
+− No of alternate funds at 785; Market share at 37.2%; AUM grew 12.9% y-o-y to ₹ 20.3 trillion; Won 25 new AIF funds including
+     from JM Financial Asset Management, 360 One WAM, Godrej Asset Management, Onterra Capital Advisor; Won a new mandate
+     from a pension fund for end-to-end mPower platform solution
+− NPS subscriber base grew to 2.5 mm by 41.2% Y-o-Y vs 14.1% Y-o-Y growth for the industry; Market share in overall subscribers’
+     base at 12.8% as on September 30, 2026, up from 10.3% as on June 30, 2025
+
+Commenting on the company’s performance, Sreekanth Nadella, Managing Director and CEO, KFin Technologies Limited said, "Our
+financial results for the second quarter reflect KFintech’s resilience, product innovation capabilities and AI driven execution excellence
+across the operating business lines. Revenues grew 30% y-o-y, led by strong deal wins across segments and the growing scale of our
+international business albeit shallow momentum in the domestic public markets. EBITDA has expanded sequentially, driven by scale
+benefits in non-mutual fund operating lines, deployment of AI and RPA driven productivity levers and disciplined cost management.We
+have also augmented the sales pipeline substantively which will augur well for the coming quarters. Furthering with our vision to create
+a global fund administrator from India, we deployed several industry first solutions - same-day SIP unitization, deployment of several
+impactful mutual fund modules via Finex, Klarity - identity authentically platform, an enterprise-grade agentic Al solution to eliminate
+signature fraud in the BFSI sector, introduced ARYA.AI - first of its kind conversational intelligence and investor servicing platform, Niti -
+DPDP platforms amongst others. As we move into the second half of fiscal 2027, we remain focused on disciplined execution, scaling our
+international business, and investing in Al-led platforms to drive sustained, long-term value for our shareholders."
+KEY FIGURES                                                                                                                      ₹ million
+                                                                  Q2FY27         Q1FY27           Q2FY26         H1FY27          H1FY26
+Revenue                                                           4,018.0         3,565.4          3092.3        7,583.3          5,832.9
+EBITDA                                                            1,610.3         1,219.8          1,357.1       2,830.1          2,495.7
+EBITDA margin %                                                    40.1%           34.2%            43.9%         37.3%            42.8%
+Profit After Tax (PAT)                                            1003.4           752.1            933.1        1,755.6          1,705.7
+PAT margin %                                                       25.0%           21.1%            30.2%         23.2%            29.2%
+Diluted EPS (₹)3                                                    5.78            4.34             5.38         10.12             9.83
+(1) Last quarter average; (2) As on Sept 30, 2026, based on market capitalization; (3) Not annualized
+
+
+
+
+                                                                                                                                                 1
+About KFin Technologies Limited (www.kfintech.com/; BSE: 543720; NSE: KFINTECH):
+KFin Technologies Limited (“KFintech”) is a leading technology driven financial services platform providing comprehensive services and
+solutions to the capital markets ecosystem including asset managers and corporate issuers across asset classes in India and provide
+comprehensive investor solutions including transfer agency, fund administration, fund accounting, data analytics, digital onboarding,
+transaction origination and processing for alternate investments, mutual funds, private market funds, digital assets, unit trusts, insurance
+investments, and private retirement schemes to global asset managers across 18 jurisdictions. In India, KFintech is the largest investor
+solutions provider to Indian mutual funds, based on number of AMCs serviced as on September 30, 2026, and the largest issuer solutions
+provider based on number of clients serviced as on September 30, 2026. KFintech is the only investor and issuer solutions provider in
+India that offers services to asset managers such as mutual funds, alternative investment funds, wealth managers and pension as well as
+corporate issuers and is one of the three operating central record keeping agencies for the National Pension System in India. KFintech is
+listed on the National Stock Exchange of India Limited and BSE Limited. General Atlantic Singapore Fund Pte Ltd (“GASF”), a leading global
+private equity investor, is the promoter of the company.
+
+For investor queries:
+Ram Gattani
+Email: InvestorRelations@kfintech.com
+
+For media queries:
+Hanisha Vadlamani
+Email: hanisha.vadlamani@kfintech.com
+
+
+
+Disclaimer:
+Certain statements that may be made or discussed in this release may be forward-looking statements and/or based on management’s
+current expectations and beliefs concerning future developments and their potential effects upon KFin Technologies Limited. The forward-
+looking statements are not a guarantee of future performance and involve risks and uncertainties and there are important factors that
+could cause actual results to differ, possibly materially, from expectations reflected in such forward-looking statements. KFin Technologies
+Limited does not intend, and is under no obligation, to update any forward-looking statement made in this release.
+
+
+
+
+                                                                                                                                               2
+

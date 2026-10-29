@@ -1,0 +1,234 @@
+# Hand-transcribed facts from primary filings / cached sources. Units: INR crore unless stated.
+# Every entry: value + src (source_id in data/sources.csv) + ref (page/slide/note).
+# Nothing here is estimated; derived quantities are computed in code (src/zk/*).
+valuation_date: "2026-10-29"
+price_date: "2026-10-29"   # Yahoo regularMarketTime 2026-10-29 ~15:29 IST, cross-checked to Screener CMP
+companies:
+  BSE:
+    name: BSE Ltd
+    cmp: {value: 3502.0, src: YF, ref: "yahoo_BSE.NS.json meta.regularMarketPrice; Screener CMP 3,502"}
+    diluted_shares_cr: {value: 41.1979077, src: BSE_AR26, ref: "Note 30 EPS: weighted avg shares 41,19,79,077 (AR: basic=diluted, no dilutive instruments)"}
+    bs_date: "2026-03-31"
+    fy26:
+      revenue: {value: 4833.95, src: BSE_AR26, ref: "Consol P&L p.152 Revenue from operations 4,83,395 lakh"}
+      opex_ex_da: {value: 1755.26, src: BSE_AR26, ref: "Employee 29,781+Tech 20,313+Regulatory 64,969+C&S 28,035+Other 24,732+Core SGF 7,696 lakh"}
+      da: {value: 158.96, src: BSE_AR26, ref: "D&A 15,896 lakh"}
+      other_income: {value: 314.15, src: BSE_AR26, ref: "Investment income 29,030 + other income 2,385 lakh"}
+      associates: {value: 65.42, src: BSE_AR26, ref: "Share of net profit of associates 6,542 lakh"}
+      pat_attrib: {value: 2496.98, src: BSE_AR26, ref: "PAT attributable 2,49,698 lakh"}
+      capex: {value: 515.0, src: SCR_SCHED, ref: "Fixed assets purchased FY26"}
+      capex_fy25: {value: 153.0, src: SCR_SCHED, ref: "Fixed assets purchased FY25"}
+      revenue_fy25: {value: 2957.34, src: BSE_AR26, ref: "Revenue from operations FY25 2,95,734 lakh"}
+    ytd:   # Q1 FY27 actual (BSE_PPT_Q1 slide 25, INR mn /10)
+      quarters: 1
+      revenue: {value: 1566.1, src: BSE_PPT_Q1, ref: "slide 25 Revenue from operations 15,661 mn"}
+      opex_ex_da: {value: 520.1, src: BSE_PPT_Q1, ref: "slide 25 Emp 871+Tech 608+Reg 1,928+C&S 903+Other 632+SGF 259 mn"}
+      variable_opex: {value: 308.99, src: BSE_PPT_Q1, ref: "Regulatory 1,928 + C&S 903 + Core SGF 259 mn"}
+      da: {value: 42.6, src: BSE_PPT_Q1, ref: "slide 25 D&A 426 mn"}
+      other_income: {value: 140.7, src: BSE_PPT_Q1, ref: "Investment income 1,352 + other 55 mn"}
+      associates: {value: 19.5, src: BSE_PPT_Q1, ref: "Share of associates 195 mn"}
+      pat_attrib: {value: 874.0, src: BSE_PPT_Q1, ref: "PAT attributable 8,740 mn"}
+    segments_ytd:
+      eq_derivatives: {value: 1155.0, src: BSE_PPT_Q1, ref: "slide 14 equity derivatives revenue 11,550 mn (image-verified)"}
+      cash_other_txn: {value: 172.7, src: BSE_PPT_Q1, ref: "transaction charges 13,277 mn less derivatives 11,550 mn"}
+      treasury_cs: {value: 40.0, src: BSE_PPT_Q1, ref: "treasury income on C&S funds 400 mn"}
+      listing: {value: 100.7, src: BSE_PPT_Q1, ref: "listing 1,007 mn"}
+      other_op: {value: 97.7, src: BSE_PPT_Q1, ref: "other operating income 977 mn"}
+    segments_fy26:
+      eq_derivatives: {value: 3134.3, src: BSE_PPT_Q1, ref: "slide 14 FY26 31,343 mn"}
+      cash_other_txn: {value: 660.7, src: BSE_PPT_Q1, ref: "txn charges 37,950 - 31,343 mn"}
+      treasury_cs: {value: 171.4, src: BSE_PPT_Q1, ref: "1,714 mn"}
+      listing: {value: 519.0, src: BSE_PPT_Q1, ref: "5,190 mn"}
+      other_op: {value: 348.5, src: BSE_PPT_Q1, ref: "3,485 mn"}
+    derivatives:
+      q1_adpt_cr: {value: 29615.4, src: BSE_PPT_Q1, ref: "slide 14 AD premium turnover Q1FY27 296,154 mn"}
+      q1_days: {value: 60, src: MINT_CAS, ref: "Q1 60 trading days vs 65 in Q2"}
+      q2_days: {value: 65, src: MINT_CAS, ref: "Q2 65 trading days"}
+      q2_qtd_adpt_cr: {value: 22500.0, src: HSIE_BSE, ref: "Q2FY27 QTD BSE premium ADTV ~INR225bn (-24% QoQ) as of 7-Sep-2026"}
+    bridge:
+      owned_cash_bank: {value: 3085.96, src: BSE_AR26, ref: "Notes 11/12 'owned': current a/c 6,637 + <3m dep 4,667 + <12m dep 1,51,346 + int 5,661 + >12m dep 1,37,461 + int 2,824 lakh"}
+      owned_investments: {value: 2923.77, src: BSE_AR26, ref: "Note 9 owned: NC bonds 69,761 + current MF 2,13,088 + current portion LT 9,528 lakh"}
+      owned_current_fin_liab: {value: 249.92, src: BSE_AR26, ref: "Note 16 owned total (A) 24,992 lakh (member deposits, accrued staff, capex payables)"}
+      statutory_remittances: {value: 747.80, src: BSE_AR26, ref: "Note 19 statutory remittances 74,780 lakh"}
+      current_tax_liab: {value: 201.09, src: BSE_AR26, ref: "BS current tax liabilities 20,109 lakh"}
+      lease_debt: {value: 0.02, src: BSE_AR26, ref: "lease liabilities 2 lakh"}
+      nci_book: {value: 122.49, src: BSE_AR26, ref: "Non-controlling interest 12,249 lakh"}
+      cdsl_shares_held_cr: {value: 3.135, src: BSE_AR26, ref: "Note 8/9: 3,13,50,000 CDSL shares"}
+      other_associates_book: {value: 87.17, src: BSE_AR26, ref: "Investments in associates 53,657 lakh less CDSL carrying 44,940 lakh"}
+      dividends_paid_since_bs: {value: 411.98, src: BSE_AR26, ref: "Final dividend INR10/share x 41.198 cr shares (declared AGM FY26; payment before 29-Oct assumed)"}
+  CDSL:
+    name: Central Depository Services (India) Ltd
+    cmp: {value: 1282.0, src: YF, ref: "yahoo_CDSL.NS.json"}
+    diluted_shares_cr: {value: 20.90, src: CDSL_AR26, ref: "Equity share capital 20,900 lakh / FV 10 (AR: basic=diluted EPS, no ESOP)"}
+    bs_date: "2026-03-31"
+    fy26:
+      revenue: {value: 1145.0, src: SCR_CDSL, ref: "Sales FY26 (= sum of CDSL_PPT_Q1 slide 18 quarterly op. income lines)"}
+      opex_ex_da: {value: 563.0, src: SCR_CDSL, ref: "Expenses FY26"}
+      da: {value: 66.0, src: SCR_CDSL, ref: "Depreciation FY26"}
+      other_income: {value: 93.0, src: SCR_CDSL, ref: "Other income FY26"}
+      associates: {value: 0.0, src: SCR_CDSL, ref: "n/a"}
+      pat_attrib: {value: 455.0, src: SCR_CDSL, ref: "Net profit FY26"}
+      capex: {value: 121.0, src: SCR_SCHED, ref: "Fixed assets purchased FY26"}
+      capex_fy25: {value: 156.0, src: SCR_SCHED, ref: "FY25"}
+      revenue_fy25: {value: 1082.0, src: SCR_CDSL, ref: "Sales FY25"}
+    ytd:
+      quarters: 1
+      revenue: {value: 293.0, src: SCR_CDSL, ref: "Jun-2026 quarter sales"}
+      opex_ex_da: {value: 155.0, src: SCR_CDSL, ref: "Jun-2026 expenses"}
+      variable_opex: {value: 15.0, src: CDSL_PPT_Q1, ref: "slide 18 SEBI/IPF fees Q1FY27"}
+      da: {value: 19.0, src: SCR_CDSL, ref: "Jun-2026 depreciation"}
+      other_income: {value: 48.0, src: SCR_CDSL, ref: "Jun-2026 other income"}
+      associates: {value: 0.0, src: SCR_CDSL, ref: "n/a"}
+      pat_attrib: {value: 118.0, src: CDSL_PPT_Q1, ref: "slide 18 net profit Q1FY27"}
+    segments_ytd:
+      annual_issuer: {value: 128, src: CDSL_PPT_Q1, ref: "slide 18 (image)"}
+      transaction: {value: 66, src: CDSL_PPT_Q1, ref: "slide 18"}
+      ipo_ca: {value: 27, src: CDSL_PPT_Q1, ref: "slide 18"}
+      online_data_kyc: {value: 45, src: CDSL_PPT_Q1, ref: "slide 18"}
+      other_op: {value: 27, src: CDSL_PPT_Q1, ref: "sales 293 less four lines above"}
+    segments_fy26:
+      annual_issuer: {value: 456, src: CDSL_PPT_Q1, ref: "slide 18 114+115+113+114"}
+      transaction: {value: 240, src: CDSL_PPT_Q1, ref: "62+59+60+59"}
+      ipo_ca: {value: 159, src: CDSL_PPT_Q1, ref: "21+62+59+17"}
+      online_data_kyc: {value: 180, src: CDSL_PPT_Q1, ref: "36+46+49+49"}
+      other_op: {value: 110, src: CDSL_PPT_Q1, ref: "sales 1,145 less above"}
+    bridge:
+      owned_cash_bank: {value: 83.07, src: CDSL_AR26, ref: "Consol BS cash 5,140.25 + other bank 3,166.93 lakh"}
+      owned_investments: {value: 1438.64, src: CDSL_AR26, ref: "Other investments NC 71,091.82 + current 72,772.59 lakh"}
+      owned_current_fin_liab: {value: 236.68, src: CDSL_AR26, ref: "Other current financial liabilities 23,668.38 lakh (composition not split; deducted conservatively)"}
+      statutory_remittances: {value: 0.0, src: CDSL_AR26, ref: "not separately deducted"}
+      current_tax_liab: {value: 10.84, src: CDSL_AR26, ref: "current tax liabilities 1,083.82 lakh"}
+      lease_debt: {value: 2.20, src: CDSL_AR26, ref: "lease liabilities 103.67+116.31 lakh"}
+      nci_book: {value: 42.46, src: CDSL_AR26, ref: "NCI 4,246.07 lakh"}
+      other_associates_book: {value: 48.44, src: CDSL_AR26, ref: "Investment in associate 4,843.66 lakh"}
+      dividends_paid_since_bs: {value: 266.48, src: CDSL_AR26, ref: "Final dividend INR12.75 x 20.90 cr shares (recommended FY26; payment before 29-Oct assumed)"}
+  CAMS:
+    name: Computer Age Management Services Ltd
+    cmp: {value: 696.95, src: YF, ref: "yahoo_CAMS.NS.json"}
+    shares_issued_cr: {value: 24.79850, src: CAMS_AR26, ref: "Consol SOCE: equity share capital 4,959.70 lakh / FV INR 2 at 31-Mar-26"}
+    dilutive_increment_cr: {value: 0.1320069, src: CAMS_AR26, ref: "Consol EPS note: weighted diluted 248,851,830 - basic 247,531,761 shares (Ind AS 33 ESOP dilution; Note 34 options outstanding)"}
+    diluted_shares_cr: {value: 24.9305069, src: CAMS_AR26, ref: "= shares_issued_cr + dilutive_increment_cr (period-end issued + ESOP dilution per AR EPS note)"}
+    bs_date: "2026-03-31"
+    fy26:
+      revenue: {value: 1516.25, src: CAMS_AR26, ref: "Consol P&L p.301 1,51,624.90 lakh"}
+      opex_ex_da: {value: 832.34, src: CAMS_AR26, ref: "Employee 49,701.98 + Other 33,532.36 lakh"}
+      da: {value: 98.77, src: CAMS_AR26, ref: "D&A 9,877.37 lakh"}
+      interest: {value: 6.98, src: CAMS_AR26, ref: "finance cost 698.37 lakh (mostly lease)"}
+      other_income: {value: 51.17, src: CAMS_AR26, ref: "Other income 5,116.71 lakh"}
+      associates: {value: -0.76, src: CAMS_AR26, ref: "JV share -76.20 lakh"}
+      pat_attrib: {value: 476.01, src: CAMS_AR26, ref: "Owners 47,600.57 lakh"}
+      tax: {value: 156.54, src: CAMS_AR26, ref: "Net tax 15,653.50 lakh"}
+      capex: {value: 140.55, src: CAMS_AR26, ref: "CF: capex incl CWIP/IAUD 14,054.83 lakh"}
+      capex_fy25: {value: 118.38, src: CAMS_AR26, ref: "CF FY25 11,837.86 lakh"}
+      revenue_fy25: {value: 1422.48, src: CAMS_AR26, ref: "1,42,248.33 lakh"}
+      cfo: {value: 584.26, src: CAMS_AR26, ref: "CF A 58,426.14 lakh"}
+      dividends_paid: {value: 304.53, src: CAMS_AR26, ref: "CF dividends 30,452.74 lakh"}
+    ytd:
+      quarters: 1
+      revenue: {value: 395.03, src: CAMS_PPT_Q1, ref: "slide 20 39,502.95 lakh"}
+      opex_ex_da: {value: 212.29, src: CAMS_PPT_Q1, ref: "Employee 12,366.49 + Other 8,862.56 lakh"}
+      variable_opex: {value: 56.97, src: CAMS_PPT_Q1, ref: "slide 21 'Operating expenses' 5,696.72 lakh"}
+      da: {value: 24.55, src: CAMS_PPT_Q1, ref: "2,454.73 lakh"}
+      other_income: {value: 16.58, src: CAMS_PPT_Q1, ref: "1,658.17 lakh"}
+      associates: {value: -0.25, src: CAMS_PPT_Q1, ref: "JV -24.50 lakh"}
+      pat_attrib: {value: 128.02, src: CAMS_PPT_Q1, ref: "12,801.59 lakh"}
+    segments_ytd:   # mix % slide 16 x revenue
+      mf_asset_based: {value: 292.71, src: CAMS_PPT_Q1, ref: "74.1% x 395.03"}
+      mf_non_asset: {value: 43.45, src: CAMS_PPT_Q1, ref: "11.0% x 395.03"}
+      non_mf: {value: 58.86, src: CAMS_PPT_Q1, ref: "14.9% x 395.03"}
+    segments_fy26:  # FY26 split not disclosed for Q2/Q3: approximated with average of Q1FY26 and Q4FY26 mix (ASSUMPTION, labelled)
+      mf_asset_based: {value: 1116.84, src: CAMS_PPT_Q1, ref: "avg(74.3%,73.0%) x 1,516.25 (approximation)"}
+      mf_non_asset: {value: 184.98, src: CAMS_PPT_Q1, ref: "avg(12.7%,11.7%) x 1,516.25 (approximation)"}
+      non_mf: {value: 214.43, src: CAMS_PPT_Q1, ref: "avg(13.0%,15.3%) x 1,516.25 (approximation)"}
+    kpis:
+      mf_aaum_share_pct: {value: 67.2, src: CAMS_PPT_Q1, ref: "Q1FY27"}
+      serviced_aaum_tn: {value: 57.33, src: CAMS_PPT_Q1, ref: "AuM incl FoF used for yield, Q1FY27"}
+      equity_share_aaum_pct: {value: 54.3, src: CAMS_PPT_Q1, ref: "slide 14 asset mix"}
+      cash_jun26: {value: 971.45, src: CAMS_PPT_Q1, ref: "slide 15 cash & equivalents 30-Jun-26 excl. trust money"}
+    bridge:
+      owned_cash_bank: {value: 409.01, src: CAMS_AR26, ref: "cash 1,211.26 + other bank 39,690.22 lakh (incl 228.79 margin money)"}
+      owned_investments: {value: 445.43, src: CAMS_AR26, ref: "Note 5 current MF 44,543.21 lakh"}
+      owned_current_fin_liab: {value: 0.0, src: CAMS_AR26, ref: "trust money (93.03 cr) and NSE unpaid dividend (67.20 cr) are matched by earmarked assets excluded from cash"}
+      statutory_remittances: {value: 0.0, src: CAMS_AR26, ref: "-"}
+      current_tax_liab: {value: 13.69, src: CAMS_AR26, ref: "1,368.58 lakh"}
+      lease_debt: {value: 64.24, src: CAMS_AR26, ref: "lease 3,391.21+2,984.40 + borrowings 47.89 lakh"}
+      nci_book: {value: -0.05, src: CAMS_AR26, ref: "NCI -4.58 lakh"}
+      other_associates_book: {value: 0.09, src: CAMS_AR26, ref: "JV 8.80 lakh"}
+      dividends_paid_since_bs: {value: 161.33, src: CAMS_AR26, ref: "FY26 final INR4 (AR) + Q1FY27 interim INR2.50 (CAMS_PPT_Q1) x 24.82 cr shares"}
+  KFINTECH:
+    name: KFin Technologies Ltd
+    cmp: {value: 859.8, src: YF, ref: "yahoo_KFINTECH.NS.json"}
+    shares_issued_cr: {value: 17.2872, src: KFIN_PPT_Q2, ref: "Paid-up equity capital 1,728.72 mn / FV INR 10 at 30-Sep-26"}
+    dilutive_increment_cr: {value: 0.0684, src: KFIN_PPT_Q2, ref: "H1FY27 PAT 1,755.6 mn / diluted EPS 10.12 (17.348 cr) - / basic EPS 10.16 (17.280 cr); EPS rounding limits precision"}
+    diluted_shares_cr: {value: 17.3556, src: KFIN_PPT_Q2, ref: "= shares_issued_cr + dilutive_increment_cr"}
+    bs_date: "2026-09-30"
+    fy26:
+      revenue: {value: 1301.0, src: SCR_KFIN, ref: "Sales FY26"}
+      opex_ex_da: {value: 771.0, src: SCR_KFIN, ref: "Expenses FY26 (sales-OP)"}
+      da: {value: 86.26, src: KFIN_PPT_Q2, ref: "FY26 depreciation 862.6 mn"}
+      other_income: {value: 30.0, src: SCR_KFIN, ref: "Other income FY26"}
+      associates: {value: 0.0, src: SCR_KFIN, ref: "n/a"}
+      pat_attrib: {value: 344.0, src: SCR_KFIN, ref: "Net profit FY26"}
+      capex: {value: 111.0, src: SCR_SCHED, ref: "Fixed assets purchased FY26"}
+      capex_fy25: {value: 86.0, src: SCR_SCHED, ref: "FY25"}
+      revenue_fy25: {value: 1091.0, src: SCR_KFIN, ref: "Sales FY25"}
+    ytd:
+      quarters: 2
+      revenue: {value: 758.33, src: KFIN_PPT_Q2, ref: "H1FY27 7,583.3 mn"}
+      opex_ex_da: {value: 475.32, src: KFIN_PPT_Q2, ref: "H1 operating expenses 4,753.2 mn"}
+      variable_opex: {value: 75.83, src: KFIN_PPT_Q2, ref: "not disclosed: ASSUMED 10% of revenue"}
+      da: {value: 55.71, src: KFIN_PPT_Q2, ref: "H1 depreciation 557.1 mn"}
+      other_income: {value: 18.0, src: SCR_KFIN, ref: "Jun-26 10 + Sep-26 8"}
+      associates: {value: 0.0, src: SCR_KFIN, ref: "n/a"}
+      pat_attrib: {value: 175.56, src: KFIN_PPT_Q2, ref: "H1 PAT 1,755.6 mn"}
+    segments_ytd:
+      domestic_mf: {value: 447.66, src: KFIN_PPT_Q2, ref: "slide 22 H1"}
+      international: {value: 152.65, src: KFIN_PPT_Q2, ref: "slide 22 H1"}
+      issuer: {value: 82.83, src: KFIN_PPT_Q2, ref: "slide 22 H1"}
+      alternates_pms: {value: 42.78, src: KFIN_PPT_Q2, ref: "slide 22 H1"}
+      nps_other: {value: 32.42, src: KFIN_PPT_Q2, ref: "NPS 94.4+allied 79.4+GBS 11.0+OPE 139.4 mn"}
+    segments_last_q:
+      domestic_mf: {value: 232.47, src: KFIN_PPT_Q2, ref: "Q2FY27"}
+      international: {value: 79.67, src: KFIN_PPT_Q2, ref: "Q2FY27"}
+      issuer: {value: 41.42, src: KFIN_PPT_Q2, ref: "H1 average (Q2 is AGM-season high) - labelled"}
+      alternates_pms: {value: 22.61, src: KFIN_PPT_Q2, ref: "Q2FY27"}
+      nps_other: {value: 16.16, src: KFIN_PPT_Q2, ref: "Q2FY27"}
+    last_q:
+      revenue: {value: 401.80, src: KFIN_PPT_Q2, ref: "Q2FY27"}
+      opex_ex_da: {value: 240.76, src: KFIN_PPT_Q2, ref: "Q2 operating expenses 2,407.6 mn"}
+    bridge:
+      owned_cash_bank: {value: 281.54, src: KFIN_PPT_Q2, ref: "Sep-26 consol cash 618.37 + other bank 2,197.03 mn"}
+      owned_investments: {value: 200.09, src: KFIN_PPT_Q2, ref: "current inv 1,990.89 + NC 10.00 mn"}
+      owned_current_fin_liab: {value: 0.0, src: KFIN_PPT_Q2, ref: "-"}
+      statutory_remittances: {value: 0.0, src: KFIN_PPT_Q2, ref: "-"}
+      current_tax_liab: {value: 65.82, src: KFIN_PPT_Q2, ref: "658.21 mn"}
+      lease_debt: {value: 75.23, src: KFIN_PPT_Q2, ref: "lease 536.37+215.96 mn"}
+      debt_like_other: {value: 676.28, src: KFIN_PPT_Q2, ref: "Consolidated-only NC other financial liabilities 6,762.81 mn; inferred = Ascent 49% earn-out/put (KFIN_ASCENT). Composition UNVERIFIED"}
+      nci_book: {value: 0.0, src: KFIN_PPT_Q2, ref: "no NCI shown"}
+      other_associates_book: {value: 2.68, src: KFIN_PPT_Q2, ref: "equity-method 26.79 mn"}
+      dividends_paid_since_bs: {value: 0.0, src: KFIN_PPT_Q2, ref: "H1 dividend (207.35 cr) already out of Sep-26 balance sheet"}
+# CAMS consolidated balance sheet 31-Mar-2026 (CAMS_AR26 p.300; notes 5,10,12,17,18). INR crore = lakh/100.
+cams_bs_mar26:
+  src: CAMS_AR26
+  assets:
+    net_fixed_and_intangible: {value: 494.17, ref: "PPE 13,845.15 + CWIP 87.69 + goodwill 17,385.55 + other intangibles 4,030.36 + ROU 5,282.88 + IAUD 8,785.41"}
+    treasury: {value: 854.44, ref: "MF 44,543.21 + cash 1,211.26 + other bank 39,690.22"}
+    trade_receivables: {value: 56.65, ref: "5,665.45"}
+    other_operating_assets: {value: 187.79, ref: "other current assets 34,772.26 + other NC 77.59 - earmarked ECS 8,943.13 - stamp 355.70 - unpaid-dividend a/c 6,771.64"}
+    earmarked_assets: {value: 160.70, ref: "ECS 8,943.13 + stamp duty 355.70 + unpaid dividend a/c 6,771.64"}
+    other_non_operating_assets: {value: 56.61, ref: "JV 8.80 + loans 23.16+263.79 + other fin. assets 1,757.56+969.26 + DTA 2,050.99 + current tax asset 587.04"}
+    total: {value: 1810.38, ref: "Total assets 1,81,037.63"}
+  liabilities:
+    lease_and_borrowings: {value: 64.24, ref: "lease 3,391.21+2,984.40 + borrowings 47.89"}
+    trade_payables: {value: 90.51, ref: "266.60 + 8,783.94"}
+    other_operating_liabilities: {value: 158.92, ref: "other fin. liab 1,450.00+8,243.64 + other current liab 14,869.31 + provisions 6,693.86+709.83 - money held in trust 9,302.71 - (earmarked unpaid dividend matched) 6,771.64"}
+    earmarked_liabilities: {value: 160.74, ref: "money in trust 9,302.71 + unpaid dividend payable 6,771.64 (incl NSE 6,719.74)"}
+    tax_liabilities: {value: 15.10, ref: "DTL 141.48 + current tax 1,368.58"}
+    total_liabilities: {value: 489.51, ref: "Total liabilities 48,950.74"}
+  equity:
+    equity_attributable: {value: 1320.91, ref: "1,32,091.47"}
+    nci: {value: -0.05, ref: "-4.58"}
+# Market shares used in the industry concentration table (verbatim from cached filings).
+market_shares:
+  kfin_mf_aaum_share_pct: {value: 33.1, src: KFIN_PPT_Q2, ref: "Q2FY27 PPT: 'Overall AAUM market share at 33.1%' (data/raw/kfin_q2fy27_ppt.txt)"}
+  cdsl_demat_share_pct: {value: 80.0, src: CDSL_TR_Q1, ref: "Q1FY27 call: 'maintaining a market share of approximately 80%' (data/raw/cdsl_q1fy27_transcript.txt)"}

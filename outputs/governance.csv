@@ -1,0 +1,8 @@
+,ticker,item,flag,src
+0,BSE,"MD&CEO Sundararaman Ramamurthy retires 15-Jun-2027 (age limit); successor search open, applications due 19-Nov-2026",AMBER - key-man/strategy continuity during regulatory transition,BSE_CEO
+1,BSE,Reported operating cash flow includes movements in clearing/settlement funds (CFO/PAT 3.4x FY24; 1.25x FY26),AMBER - use owned cash only (done in bridge),"SCR_BSE, BSE_AR26"
+2,CDSL,BSE holds 15% (promoter); MII governance under SEBI; FY26 EPS decline,GREEN/AMBER,"SCR_CDSL, BSE_AR26"
+3,CAMS,No promoter; related-party transactions limited to KMP remuneration at arm's length (Note 30); auditor S.R. Batliboi,GREEN,CAMS_AR26
+4,CAMS,Intangibles under development up from INR 38 cr to INR 88 cr; capital commitments INR 123 cr mostly cloud contracts for new RTA platform,AMBER - capitalisation policy and platform migration risk,CAMS_AR26
+5,KFINTECH,Promoter General Atlantic sold 8.75% at INR925 (Aug-2026); promoter holding 14.06% (Sep-26) - overhang,AMBER - supply overhang,KFIN_SHP
+6,KFINTECH,INR 676 cr consolidated non-current financial liability inferred as Ascent 49% earn-out (composition UNVERIFIED); deducted as debt-like,AMBER - UNVERIFIED,"KFIN_PPT_Q2, KFIN_ASCENT"

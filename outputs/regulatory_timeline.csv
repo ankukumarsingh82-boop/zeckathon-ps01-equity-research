@@ -1,0 +1,7 @@
+date,measure,hits,src
+01-Jul-2024 (eff. 01-Oct-2024),"True-to-label: MII charges uniform for all members, no volume slabs; end-client charge = amount MII receives","BSE (txn charges), CDSL (DP/transaction charges): pricing reset, lower realisation",SEBI_CIRC_92
+01-Oct-2024 (eff. 20-Nov-2024 to 01-Apr-2025),"Index-derivative curbs: upfront premium collection, no calendar-spread benefit on expiry day, intraday position-limit monitoring, contract size INR 15-20 lakh, one weekly expiry per exchange, +2% ELM on expiry day",BSE directly (options premium turnover); CDSL/brokers second-order via fewer active traders,SEBI_CIRC_132
+07-Jul-2025,"SEBI study: ~91% of individual F&O traders lost money in FY25; net losses INR 1,05,603 cr (FY24: 74,812 cr); unique individual traders 61.4 lakh (Q1 FY25) -> 42.7 lakh (Q4 FY25); index-options premium turnover -9% YoY (Dec-24 to May-25)",Evidence the curbs bite on participation; supports policy persistence (bear case),SEBI_PR39
+FY26,Index options contracts traded fell ~52% in FY26; NSE/BSE options volumes down >50%,BSE/NSE volumes; CDSL transaction activity,"SEBI_AR26, FOW_FO"
+01-Apr-2026,Budget-2026 STT increase on F&O; SEBI TER -> BER expense framework for MFs,BSE (cost of trading up); CAMS/KFin (AMC economics -> RTA yield pressure),"BS_STT, CAFE_TER"
+01-Jul-2026,RBI bank-guarantee / proprietary-funding rules; brokers report F&O volumes -20-25%,"BSE premium ADTV (Q2 FY27 QTD ~INR 225 bn/day, -24% QoQ per HSIE)","MC_RBI, HSIE_BSE"

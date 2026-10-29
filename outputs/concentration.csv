@@ -1,0 +1,3 @@
+market,leader,leader_share_pct,second,second_share_pct,hhi_two_player,note,src
+MF RTA (AAUM share),CAMS,67.2,KFINTECH,33.1,5611.450000000001,"CAMS Q1 FY27 ex-FoF vs KFin Q2 FY27 overall - different quarter/basis, sum 100.3% (not additive by construction)","CAMS_PPT_Q1, KFIN_PPT_Q2"
+Depository (demat accounts),CDSL,80.0,NSDL,20.0,6800.0,CDSL 'approximately 80%' (call); NSDL = remainder (duopoly),CDSL_TR_Q1
